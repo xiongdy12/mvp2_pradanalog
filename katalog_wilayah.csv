@@ -1,0 +1,11 @@
+provinsi,n_kabkota,geojson_kabkota,fraksi_terhubung_darat,lag_bulan_produksi,sumber,url,tanggal_akses,status_verifikasi
+Jawa Timur,38,1,0.97,8,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Jawa Tengah,35,1,0.97,8,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Jawa Barat,27,1,1.0,8,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Sumatera Utara,33,1,0.85,10,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Sulawesi Selatan,24,1,0.88,10,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Lampung,15,1,1.0,10,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Nusa Tenggara Barat,10,1,0.5,10,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+DI Yogyakarta,5,1,1.0,8,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Bali,9,1,0.89,10,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi
+Sumatera Selatan,17,1,1.0,10,Batas wilayah: geoportal Ina-Geoportal/BIG; konektivitas: penilaian jaringan jalan nasional,https://tanahair.indonesia.go.id/,2026-08-20,estimasi

@@ -1,0 +1,394 @@
+provinsi,komoditas,h,metode,mase,dipakai,dipakai_kom,penyesalan
+Aceh,Bawang Merah,1,campuran,0.975,naif,naif,0.0
+Aceh,Bawang Merah,2,campuran,0.832,campuran,campuran,0.0
+Aceh,Bawang Merah,3,campuran,0.917,campuran,campuran,0.0
+Aceh,Beras,1,hanyut,1.196,naif,naif,0.0
+Aceh,Beras,2,campuran,1.154,naif,naif,0.0
+Aceh,Beras,3,campuran,1.085,naif,naif,0.0
+Aceh,Cabai Besar,1,campuran,1.0,naif,naif,0.0
+Aceh,Cabai Besar,2,campuran,1.0,naif,naif,0.0
+Aceh,Cabai Besar,3,campuran,1.0,naif,campuran,0.0
+Bali,Bawang Merah,1,hanyut,0.988,naif,naif,0.0
+Bali,Bawang Merah,2,campuran,0.823,campuran,campuran,0.0
+Bali,Bawang Merah,3,campuran,0.789,campuran,campuran,0.0
+Bali,Beras,1,hanyut,1.31,naif,naif,0.0
+Bali,Beras,2,hanyut,1.121,naif,naif,0.0
+Bali,Beras,3,hanyut,1.17,naif,naif,0.0
+Bali,Cabai Besar,1,hanyut,1.108,naif,naif,0.0
+Bali,Cabai Besar,2,campuran,0.974,naif,naif,0.0
+Bali,Cabai Besar,3,campuran,0.9,campuran,campuran,0.0
+Bali,Cabai Rawit,1,campuran,0.867,campuran,campuran,0.0
+Bali,Cabai Rawit,2,campuran,0.745,campuran,campuran,0.0
+Bali,Cabai Rawit,3,campuran,0.649,campuran,campuran,0.0
+Banten,Bawang Merah,1,hanyut,1.027,naif,naif,0.0
+Banten,Bawang Merah,2,campuran,0.916,campuran,campuran,0.0
+Banten,Bawang Merah,3,campuran,0.843,campuran,campuran,0.0
+Banten,Beras,1,hanyut,1.113,naif,naif,0.0
+Banten,Beras,2,hanyut,1.008,naif,naif,0.0
+Banten,Beras,3,campuran,0.922,campuran,naif,0.078
+Banten,Cabai Besar,1,hanyut,1.063,naif,naif,0.0
+Banten,Cabai Besar,2,campuran,1.026,naif,naif,0.0
+Banten,Cabai Besar,3,campuran,0.928,campuran,campuran,0.0
+Banten,Cabai Rawit,1,campuran,0.915,campuran,campuran,0.0
+Banten,Cabai Rawit,2,campuran,0.842,campuran,campuran,0.0
+Banten,Cabai Rawit,3,campuran,0.776,campuran,campuran,0.0
+Bengkulu,Bawang Merah,1,campuran,1.021,naif,naif,0.0
+Bengkulu,Bawang Merah,2,campuran,0.901,campuran,campuran,0.0
+Bengkulu,Bawang Merah,3,campuran,0.924,campuran,campuran,0.0
+Bengkulu,Beras,1,hanyut,1.681,naif,naif,0.0
+Bengkulu,Beras,2,hanyut,1.691,naif,naif,0.0
+Bengkulu,Beras,3,campuran,1.883,naif,naif,0.0
+Bengkulu,Cabai Besar,1,hanyut,1.039,naif,naif,0.0
+Bengkulu,Cabai Besar,2,hanyut,1.091,naif,naif,0.0
+Bengkulu,Cabai Besar,3,campuran,0.925,campuran,campuran,0.0
+Bengkulu,Cabai Rawit,1,campuran,0.982,naif,campuran,-0.018
+Bengkulu,Cabai Rawit,2,campuran,0.992,naif,campuran,-0.008
+Bengkulu,Cabai Rawit,3,campuran,0.917,campuran,campuran,0.0
+DI Yogyakarta,Bawang Merah,1,hanyut,1.005,naif,naif,0.0
+DI Yogyakarta,Bawang Merah,2,campuran,1.028,naif,campuran,0.028
+DI Yogyakarta,Bawang Merah,3,hanyut,1.137,naif,campuran,0.187
+DI Yogyakarta,Beras,1,hanyut,1.737,naif,naif,0.0
+DI Yogyakarta,Beras,2,hanyut,1.75,naif,naif,0.0
+DI Yogyakarta,Beras,3,campuran,1.075,naif,naif,0.0
+DI Yogyakarta,Cabai Besar,1,hanyut,1.028,naif,naif,0.0
+DI Yogyakarta,Cabai Besar,2,campuran,1.003,naif,naif,0.0
+DI Yogyakarta,Cabai Besar,3,campuran,0.829,campuran,campuran,0.0
+DI Yogyakarta,Cabai Rawit,1,campuran,0.907,campuran,campuran,0.0
+DI Yogyakarta,Cabai Rawit,2,campuran,0.794,campuran,campuran,0.0
+DI Yogyakarta,Cabai Rawit,3,campuran,0.703,campuran,campuran,0.0
+DKI Jakarta,Bawang Merah,1,campuran,0.97,naif,naif,0.0
+DKI Jakarta,Bawang Merah,2,campuran,0.966,naif,campuran,-0.034
+DKI Jakarta,Bawang Merah,3,campuran,0.847,campuran,campuran,0.0
+DKI Jakarta,Beras,1,hanyut,1.288,naif,naif,0.0
+DKI Jakarta,Beras,2,hanyut,1.098,naif,naif,0.0
+DKI Jakarta,Beras,3,hanyut,1.118,naif,naif,0.0
+DKI Jakarta,Cabai Besar,1,hanyut,1.071,naif,naif,0.0
+DKI Jakarta,Cabai Besar,2,campuran,0.932,campuran,naif,0.068
+DKI Jakarta,Cabai Besar,3,campuran,0.857,campuran,campuran,0.0
+DKI Jakarta,Cabai Rawit,1,campuran,0.875,campuran,campuran,0.0
+DKI Jakarta,Cabai Rawit,2,campuran,0.83,campuran,campuran,0.0
+DKI Jakarta,Cabai Rawit,3,campuran,0.761,campuran,campuran,0.0
+Gorontalo,Bawang Merah,1,campuran,0.852,campuran,naif,0.148
+Gorontalo,Bawang Merah,2,campuran,0.912,campuran,campuran,0.0
+Gorontalo,Bawang Merah,3,campuran,0.925,campuran,campuran,0.0
+Gorontalo,Beras,1,hanyut,1.157,naif,naif,0.0
+Gorontalo,Beras,2,campuran,1.123,naif,naif,0.0
+Gorontalo,Beras,3,campuran,0.884,campuran,naif,0.116
+Gorontalo,Cabai Rawit,1,campuran,0.965,naif,campuran,-0.035
+Gorontalo,Cabai Rawit,2,campuran,0.918,campuran,campuran,0.0
+Gorontalo,Cabai Rawit,3,campuran,1.005,naif,campuran,0.005
+Jambi,Bawang Merah,1,campuran,0.805,campuran,naif,0.195
+Jambi,Bawang Merah,2,campuran,0.804,campuran,campuran,0.0
+Jambi,Bawang Merah,3,campuran,0.845,campuran,campuran,0.0
+Jambi,Beras,1,hanyut,1.649,naif,naif,0.0
+Jambi,Beras,2,hanyut,1.409,naif,naif,0.0
+Jambi,Beras,3,hanyut,1.308,naif,naif,0.0
+Jambi,Cabai Besar,1,hanyut,1.03,naif,naif,0.0
+Jambi,Cabai Besar,2,campuran,1.08,naif,naif,0.0
+Jambi,Cabai Besar,3,musiman,0.92,musiman,campuran,0.032
+Jambi,Cabai Rawit,1,hanyut,1.028,naif,campuran,0.029
+Jambi,Cabai Rawit,2,campuran,0.954,naif,campuran,-0.046
+Jambi,Cabai Rawit,3,musiman,0.841,musiman,campuran,0.007
+Jawa Barat,Bawang Merah,1,hanyut,1.005,naif,naif,0.0
+Jawa Barat,Bawang Merah,2,campuran,0.984,naif,campuran,-0.016
+Jawa Barat,Bawang Merah,3,campuran,0.853,campuran,campuran,0.0
+Jawa Barat,Beras,1,hanyut,2.113,naif,naif,0.0
+Jawa Barat,Beras,2,hanyut,2.122,naif,naif,0.0
+Jawa Barat,Beras,3,hanyut,2.462,naif,naif,0.0
+Jawa Barat,Cabai Besar,1,hanyut,1.099,naif,naif,0.0
+Jawa Barat,Cabai Besar,2,campuran,0.981,naif,naif,0.0
+Jawa Barat,Cabai Besar,3,campuran,0.878,campuran,campuran,0.0
+Jawa Barat,Cabai Rawit,1,campuran,0.92,campuran,campuran,0.0
+Jawa Barat,Cabai Rawit,2,campuran,0.837,campuran,campuran,0.0
+Jawa Barat,Cabai Rawit,3,campuran,0.755,campuran,campuran,0.0
+Jawa Tengah,Bawang Merah,1,campuran,0.994,naif,naif,0.0
+Jawa Tengah,Bawang Merah,2,campuran,0.96,naif,campuran,-0.04
+Jawa Tengah,Bawang Merah,3,campuran,0.909,campuran,campuran,0.0
+Jawa Tengah,Beras,1,hanyut,1.42,naif,naif,0.0
+Jawa Tengah,Beras,2,hanyut,1.443,naif,naif,0.0
+Jawa Tengah,Beras,3,hanyut,1.345,naif,naif,0.0
+Jawa Tengah,Cabai Besar,1,hanyut,1.038,naif,naif,0.0
+Jawa Tengah,Cabai Besar,2,hanyut,1.121,naif,naif,0.0
+Jawa Tengah,Cabai Besar,3,campuran,0.955,naif,campuran,-0.045
+Jawa Tengah,Cabai Rawit,1,campuran,0.883,campuran,campuran,0.0
+Jawa Tengah,Cabai Rawit,2,campuran,0.82,campuran,campuran,0.0
+Jawa Tengah,Cabai Rawit,3,campuran,0.733,campuran,campuran,0.0
+Jawa Timur,Bawang Merah,1,hanyut,1.024,naif,naif,0.0
+Jawa Timur,Bawang Merah,2,campuran,0.957,naif,campuran,-0.043
+Jawa Timur,Bawang Merah,3,campuran,0.872,campuran,campuran,0.0
+Jawa Timur,Beras,1,hanyut,1.274,naif,naif,0.0
+Jawa Timur,Beras,2,hanyut,1.304,naif,naif,0.0
+Jawa Timur,Beras,3,hanyut,1.311,naif,naif,0.0
+Jawa Timur,Cabai Besar,1,hanyut,1.09,naif,naif,0.0
+Jawa Timur,Cabai Besar,2,campuran,0.98,naif,naif,0.0
+Jawa Timur,Cabai Besar,3,campuran,0.868,campuran,campuran,0.0
+Jawa Timur,Cabai Rawit,1,campuran,0.831,campuran,campuran,0.0
+Jawa Timur,Cabai Rawit,2,campuran,0.831,campuran,campuran,0.0
+Jawa Timur,Cabai Rawit,3,campuran,0.726,campuran,campuran,0.0
+Kalimantan Barat,Bawang Merah,1,campuran,0.923,campuran,naif,0.077
+Kalimantan Barat,Bawang Merah,2,campuran,0.882,campuran,campuran,0.0
+Kalimantan Barat,Bawang Merah,3,campuran,0.783,campuran,campuran,0.0
+Kalimantan Barat,Beras,1,hanyut,1.167,naif,naif,0.0
+Kalimantan Barat,Beras,2,hanyut,1.15,naif,naif,0.0
+Kalimantan Barat,Beras,3,hanyut,1.257,naif,naif,0.0
+Kalimantan Barat,Cabai Besar,1,campuran,0.906,campuran,naif,0.094
+Kalimantan Barat,Cabai Besar,2,campuran,0.841,campuran,naif,0.159
+Kalimantan Barat,Cabai Besar,3,musiman,0.754,musiman,campuran,0.111
+Kalimantan Barat,Cabai Rawit,1,campuran,0.829,campuran,campuran,0.0
+Kalimantan Barat,Cabai Rawit,2,campuran,0.863,campuran,campuran,0.0
+Kalimantan Barat,Cabai Rawit,3,campuran,0.823,campuran,campuran,0.0
+Kalimantan Selatan,Bawang Merah,1,hanyut,1.02,naif,naif,0.0
+Kalimantan Selatan,Bawang Merah,2,campuran,0.825,campuran,campuran,0.0
+Kalimantan Selatan,Bawang Merah,3,campuran,0.85,campuran,campuran,0.0
+Kalimantan Selatan,Beras,1,hanyut,1.206,naif,naif,0.0
+Kalimantan Selatan,Beras,2,hanyut,1.227,naif,naif,0.0
+Kalimantan Selatan,Beras,3,hanyut,1.319,naif,naif,0.0
+Kalimantan Selatan,Cabai Besar,1,campuran,0.965,naif,naif,0.0
+Kalimantan Selatan,Cabai Besar,2,campuran,0.814,campuran,naif,0.186
+Kalimantan Selatan,Cabai Besar,3,campuran,0.782,campuran,campuran,0.0
+Kalimantan Selatan,Cabai Rawit,1,campuran,0.895,campuran,campuran,0.0
+Kalimantan Selatan,Cabai Rawit,2,campuran,0.797,campuran,campuran,0.0
+Kalimantan Selatan,Cabai Rawit,3,campuran,0.726,campuran,campuran,0.0
+Kalimantan Tengah,Bawang Merah,1,hanyut,1.025,naif,naif,0.0
+Kalimantan Tengah,Bawang Merah,2,campuran,0.824,campuran,campuran,0.0
+Kalimantan Tengah,Bawang Merah,3,campuran,0.847,campuran,campuran,0.0
+Kalimantan Tengah,Beras,1,hanyut,1.288,naif,naif,0.0
+Kalimantan Tengah,Beras,2,campuran,1.168,naif,naif,0.0
+Kalimantan Tengah,Beras,3,campuran,0.95,naif,naif,0.0
+Kalimantan Tengah,Cabai Besar,1,campuran,0.916,campuran,naif,0.084
+Kalimantan Tengah,Cabai Besar,2,campuran,0.84,campuran,naif,0.16
+Kalimantan Tengah,Cabai Besar,3,campuran,0.812,campuran,campuran,0.0
+Kalimantan Tengah,Cabai Rawit,1,campuran,0.879,campuran,campuran,0.0
+Kalimantan Tengah,Cabai Rawit,2,campuran,0.82,campuran,campuran,0.0
+Kalimantan Tengah,Cabai Rawit,3,campuran,0.81,campuran,campuran,0.0
+Kalimantan Timur,Bawang Merah,1,hanyut,1.031,naif,naif,0.0
+Kalimantan Timur,Bawang Merah,2,campuran,0.893,campuran,campuran,0.0
+Kalimantan Timur,Bawang Merah,3,campuran,0.922,campuran,campuran,0.0
+Kalimantan Timur,Beras,1,hanyut,1.214,naif,naif,0.0
+Kalimantan Timur,Beras,2,hanyut,1.329,naif,naif,0.0
+Kalimantan Timur,Beras,3,hanyut,1.37,naif,naif,0.0
+Kalimantan Timur,Cabai Besar,1,campuran,0.99,naif,naif,0.0
+Kalimantan Timur,Cabai Besar,2,campuran,0.88,campuran,naif,0.12
+Kalimantan Timur,Cabai Besar,3,campuran,0.836,campuran,campuran,0.0
+Kalimantan Timur,Cabai Rawit,1,campuran,0.833,campuran,campuran,0.0
+Kalimantan Timur,Cabai Rawit,2,campuran,0.678,campuran,campuran,0.0
+Kalimantan Timur,Cabai Rawit,3,campuran,0.699,campuran,campuran,0.0
+Kalimantan Utara,Bawang Merah,1,hanyut,1.023,naif,naif,0.0
+Kalimantan Utara,Bawang Merah,2,campuran,0.845,campuran,campuran,0.0
+Kalimantan Utara,Bawang Merah,3,campuran,0.904,campuran,campuran,0.0
+Kalimantan Utara,Beras,1,hanyut,1.211,naif,naif,0.0
+Kalimantan Utara,Beras,2,campuran,1.161,naif,naif,0.0
+Kalimantan Utara,Beras,3,campuran,1.054,naif,naif,0.0
+Kalimantan Utara,Cabai Besar,1,campuran,1.008,naif,naif,0.0
+Kalimantan Utara,Cabai Besar,2,campuran,0.986,naif,naif,0.0
+Kalimantan Utara,Cabai Besar,3,campuran,0.946,campuran,campuran,0.0
+Kalimantan Utara,Cabai Rawit,1,campuran,0.699,campuran,campuran,0.0
+Kalimantan Utara,Cabai Rawit,2,campuran,0.66,campuran,campuran,0.0
+Kalimantan Utara,Cabai Rawit,3,musiman,0.675,musiman,campuran,0.042
+Kepulauan Bangka Belitung,Bawang Merah,1,hanyut,1.004,naif,naif,0.0
+Kepulauan Bangka Belitung,Bawang Merah,2,campuran,0.83,campuran,campuran,0.0
+Kepulauan Bangka Belitung,Bawang Merah,3,campuran,0.778,campuran,campuran,0.0
+Kepulauan Bangka Belitung,Beras,1,hanyut,1.309,naif,naif,0.0
+Kepulauan Bangka Belitung,Beras,2,hanyut,1.43,naif,naif,0.0
+Kepulauan Bangka Belitung,Beras,3,hanyut,1.51,naif,naif,0.0
+Kepulauan Bangka Belitung,Cabai Rawit,1,campuran,0.956,naif,campuran,-0.044
+Kepulauan Bangka Belitung,Cabai Rawit,2,campuran,1.037,naif,campuran,0.037
+Kepulauan Bangka Belitung,Cabai Rawit,3,campuran,0.995,naif,campuran,-0.005
+Kepulauan Riau,Bawang Merah,1,campuran,0.894,campuran,naif,0.106
+Kepulauan Riau,Bawang Merah,2,musiman,0.726,musiman,campuran,0.051
+Kepulauan Riau,Bawang Merah,3,musiman,0.765,musiman,campuran,0.03
+Kepulauan Riau,Beras,1,hanyut,1.245,naif,naif,0.0
+Kepulauan Riau,Beras,2,hanyut,1.238,naif,naif,0.0
+Kepulauan Riau,Beras,3,hanyut,1.245,naif,naif,0.0
+Lampung,Bawang Merah,1,hanyut,1.01,naif,naif,0.0
+Lampung,Bawang Merah,2,campuran,0.972,naif,campuran,-0.028
+Lampung,Bawang Merah,3,campuran,0.928,campuran,campuran,0.0
+Lampung,Beras,1,hanyut,1.164,naif,naif,0.0
+Lampung,Beras,2,hanyut,1.178,naif,naif,0.0
+Lampung,Beras,3,hanyut,1.502,naif,naif,0.0
+Lampung,Cabai Besar,1,hanyut,1.022,naif,naif,0.0
+Lampung,Cabai Besar,2,hanyut,1.106,naif,naif,0.0
+Lampung,Cabai Besar,3,campuran,0.875,campuran,campuran,0.0
+Lampung,Cabai Rawit,1,hanyut,1.018,naif,campuran,0.11
+Lampung,Cabai Rawit,2,campuran,1.008,naif,campuran,0.008
+Lampung,Cabai Rawit,3,campuran,0.861,campuran,campuran,0.0
+Maluku,Bawang Merah,1,campuran,0.939,campuran,naif,0.061
+Maluku,Bawang Merah,2,campuran,0.89,campuran,campuran,0.0
+Maluku,Bawang Merah,3,campuran,0.851,campuran,campuran,0.0
+Maluku,Beras,1,hanyut,1.417,naif,naif,0.0
+Maluku,Beras,2,hanyut,1.341,naif,naif,0.0
+Maluku,Beras,3,hanyut,1.353,naif,naif,0.0
+Maluku,Cabai Besar,1,hanyut,2.167,naif,naif,0.0
+Maluku,Cabai Besar,2,hanyut,2.22,naif,naif,0.0
+Maluku,Cabai Besar,3,hanyut,2.658,naif,campuran,3.152
+Maluku,Cabai Rawit,1,campuran,0.81,campuran,campuran,0.0
+Maluku,Cabai Rawit,2,campuran,0.702,campuran,campuran,0.0
+Maluku,Cabai Rawit,3,campuran,0.788,campuran,campuran,0.0
+Maluku Utara,Bawang Merah,1,campuran,0.989,naif,naif,0.0
+Maluku Utara,Bawang Merah,2,campuran,0.878,campuran,campuran,0.0
+Maluku Utara,Bawang Merah,3,campuran,0.882,campuran,campuran,0.0
+Maluku Utara,Beras,1,hanyut,1.908,naif,naif,0.0
+Maluku Utara,Beras,2,hanyut,1.923,naif,naif,0.0
+Maluku Utara,Beras,3,hanyut,1.811,naif,naif,0.0
+Maluku Utara,Cabai Besar,1,campuran,0.915,campuran,naif,0.085
+Maluku Utara,Cabai Besar,2,campuran,0.876,campuran,naif,0.124
+Maluku Utara,Cabai Besar,3,musiman,0.739,musiman,campuran,0.006
+Maluku Utara,Cabai Rawit,1,hanyut,1.066,naif,campuran,0.093
+Maluku Utara,Cabai Rawit,2,campuran,1.052,naif,campuran,0.052
+Maluku Utara,Cabai Rawit,3,campuran,0.876,campuran,campuran,0.0
+Nasional,Bawang Merah,1,hanyut,1.005,naif,naif,0.0
+Nasional,Bawang Merah,2,campuran,0.872,campuran,campuran,0.0
+Nasional,Bawang Merah,3,campuran,0.933,campuran,campuran,0.0
+Nasional,Beras,1,hanyut,1.217,naif,naif,0.0
+Nasional,Beras,2,hanyut,1.298,naif,naif,0.0
+Nasional,Beras,3,hanyut,1.301,naif,naif,0.0
+Nasional,Cabai Besar,1,hanyut,1.082,naif,naif,0.0
+Nasional,Cabai Besar,2,campuran,1.017,naif,naif,0.0
+Nasional,Cabai Besar,3,campuran,0.916,campuran,campuran,0.0
+Nasional,Cabai Rawit,1,campuran,0.867,campuran,campuran,0.0
+Nasional,Cabai Rawit,2,campuran,0.797,campuran,campuran,0.0
+Nasional,Cabai Rawit,3,campuran,0.786,campuran,campuran,0.0
+Nusa Tenggara Barat,Bawang Merah,1,campuran,0.912,campuran,naif,0.088
+Nusa Tenggara Barat,Bawang Merah,2,campuran,0.849,campuran,campuran,0.0
+Nusa Tenggara Barat,Bawang Merah,3,campuran,0.862,campuran,campuran,0.0
+Nusa Tenggara Barat,Beras,1,hanyut,1.385,naif,naif,0.0
+Nusa Tenggara Barat,Beras,2,hanyut,1.223,naif,naif,0.0
+Nusa Tenggara Barat,Beras,3,hanyut,0.889,hanyut,naif,0.111
+Nusa Tenggara Barat,Cabai Besar,1,hanyut,1.073,naif,naif,0.0
+Nusa Tenggara Barat,Cabai Besar,2,campuran,0.96,naif,naif,0.0
+Nusa Tenggara Barat,Cabai Besar,3,musiman,0.821,musiman,campuran,0.061
+Nusa Tenggara Barat,Cabai Rawit,1,campuran,0.835,campuran,campuran,0.0
+Nusa Tenggara Barat,Cabai Rawit,2,campuran,0.743,campuran,campuran,0.0
+Nusa Tenggara Barat,Cabai Rawit,3,campuran,0.685,campuran,campuran,0.0
+Nusa Tenggara Timur,Bawang Merah,1,hanyut,1.049,naif,naif,0.0
+Nusa Tenggara Timur,Bawang Merah,2,campuran,0.927,campuran,campuran,0.0
+Nusa Tenggara Timur,Bawang Merah,3,campuran,0.825,campuran,campuran,0.0
+Nusa Tenggara Timur,Beras,1,hanyut,2.271,naif,naif,0.0
+Nusa Tenggara Timur,Beras,2,hanyut,2.575,naif,naif,0.0
+Nusa Tenggara Timur,Beras,3,hanyut,2.4,naif,naif,0.0
+Nusa Tenggara Timur,Cabai Besar,1,campuran,0.941,campuran,naif,0.059
+Nusa Tenggara Timur,Cabai Besar,2,campuran,0.699,campuran,naif,0.301
+Nusa Tenggara Timur,Cabai Besar,3,campuran,0.635,campuran,campuran,0.0
+Nusa Tenggara Timur,Cabai Rawit,1,campuran,0.86,campuran,campuran,0.0
+Nusa Tenggara Timur,Cabai Rawit,2,campuran,0.629,campuran,campuran,0.0
+Nusa Tenggara Timur,Cabai Rawit,3,campuran,0.67,campuran,campuran,0.0
+Papua,Bawang Merah,1,hanyut,1.016,naif,naif,0.0
+Papua,Bawang Merah,2,hanyut,1.05,naif,campuran,0.056
+Papua,Bawang Merah,3,hanyut,1.022,naif,campuran,0.103
+Papua,Beras,1,hanyut,1.508,naif,naif,0.0
+Papua,Beras,2,hanyut,1.567,naif,naif,0.0
+Papua,Beras,3,hanyut,1.504,naif,naif,0.0
+Papua,Cabai Besar,1,campuran,0.849,campuran,naif,0.151
+Papua,Cabai Besar,2,campuran,0.707,campuran,naif,0.293
+Papua,Cabai Besar,3,campuran,0.663,campuran,campuran,0.0
+Papua,Cabai Rawit,1,campuran,0.86,campuran,campuran,0.0
+Papua,Cabai Rawit,2,campuran,0.765,campuran,campuran,0.0
+Papua,Cabai Rawit,3,campuran,0.962,naif,campuran,-0.038
+Papua Barat,Bawang Merah,1,hanyut,1.001,naif,naif,0.0
+Papua Barat,Bawang Merah,2,campuran,0.846,campuran,campuran,0.0
+Papua Barat,Bawang Merah,3,campuran,0.969,naif,campuran,-0.031
+Papua Barat,Beras,1,hanyut,1.371,naif,naif,0.0
+Papua Barat,Beras,2,hanyut,1.476,naif,naif,0.0
+Papua Barat,Beras,3,campuran,1.431,naif,naif,0.0
+Papua Barat,Cabai Besar,1,hanyut,1.067,naif,naif,0.0
+Papua Barat,Cabai Besar,2,campuran,0.836,campuran,naif,0.164
+Papua Barat,Cabai Besar,3,campuran,0.8,campuran,campuran,0.0
+Papua Barat,Cabai Rawit,1,musiman,0.65,musiman,campuran,0.052
+Papua Barat,Cabai Rawit,2,musiman,0.571,musiman,campuran,0.015
+Papua Barat,Cabai Rawit,3,campuran,0.715,campuran,campuran,0.0
+Riau,Bawang Merah,1,campuran,0.979,naif,naif,0.0
+Riau,Bawang Merah,2,campuran,0.92,campuran,campuran,0.0
+Riau,Bawang Merah,3,campuran,0.93,campuran,campuran,0.0
+Riau,Beras,1,hanyut,2.736,naif,naif,0.0
+Riau,Beras,2,hanyut,2.625,naif,naif,0.0
+Riau,Beras,3,hanyut,2.137,naif,naif,0.0
+Riau,Cabai Besar,1,hanyut,1.027,naif,naif,0.0
+Riau,Cabai Besar,2,campuran,1.009,naif,naif,0.0
+Riau,Cabai Besar,3,musiman,0.879,musiman,campuran,0.026
+Riau,Cabai Rawit,1,campuran,1.02,naif,campuran,0.02
+Riau,Cabai Rawit,2,campuran,0.939,campuran,campuran,0.0
+Riau,Cabai Rawit,3,campuran,0.887,campuran,campuran,0.0
+Sulawesi Barat,Bawang Merah,1,hanyut,1.029,naif,naif,0.0
+Sulawesi Barat,Bawang Merah,2,campuran,0.956,naif,campuran,-0.044
+Sulawesi Barat,Bawang Merah,3,campuran,0.924,campuran,campuran,0.0
+Sulawesi Barat,Beras,1,hanyut,1.269,naif,naif,0.0
+Sulawesi Barat,Beras,2,hanyut,1.263,naif,naif,0.0
+Sulawesi Barat,Beras,3,campuran,1.113,naif,naif,0.0
+Sulawesi Barat,Cabai Besar,1,campuran,1.039,naif,naif,0.0
+Sulawesi Barat,Cabai Besar,2,campuran,0.929,campuran,naif,0.071
+Sulawesi Barat,Cabai Besar,3,campuran,0.869,campuran,campuran,0.0
+Sulawesi Barat,Cabai Rawit,1,hanyut,1.13,naif,campuran,0.237
+Sulawesi Barat,Cabai Rawit,2,campuran,0.956,naif,campuran,-0.044
+Sulawesi Barat,Cabai Rawit,3,campuran,0.867,campuran,campuran,0.0
+Sulawesi Selatan,Bawang Merah,1,hanyut,1.036,naif,naif,0.0
+Sulawesi Selatan,Bawang Merah,2,campuran,0.86,campuran,campuran,0.0
+Sulawesi Selatan,Bawang Merah,3,campuran,0.976,naif,campuran,-0.024
+Sulawesi Selatan,Beras,1,hanyut,1.179,naif,naif,0.0
+Sulawesi Selatan,Beras,2,hanyut,1.268,naif,naif,0.0
+Sulawesi Selatan,Beras,3,campuran,1.219,naif,naif,0.0
+Sulawesi Selatan,Cabai Besar,1,hanyut,1.139,naif,naif,0.0
+Sulawesi Selatan,Cabai Besar,2,campuran,0.985,naif,naif,0.0
+Sulawesi Selatan,Cabai Besar,3,campuran,0.865,campuran,campuran,0.0
+Sulawesi Selatan,Cabai Rawit,1,campuran,0.95,naif,campuran,-0.05
+Sulawesi Selatan,Cabai Rawit,2,campuran,0.726,campuran,campuran,0.0
+Sulawesi Selatan,Cabai Rawit,3,campuran,0.716,campuran,campuran,0.0
+Sulawesi Tengah,Bawang Merah,1,hanyut,1.044,naif,naif,0.0
+Sulawesi Tengah,Bawang Merah,2,campuran,0.847,campuran,campuran,0.0
+Sulawesi Tengah,Bawang Merah,3,campuran,0.945,campuran,campuran,0.0
+Sulawesi Tengah,Beras,1,hanyut,1.221,naif,naif,0.0
+Sulawesi Tengah,Beras,2,hanyut,1.229,naif,naif,0.0
+Sulawesi Tengah,Beras,3,campuran,1.033,naif,naif,0.0
+Sulawesi Tengah,Cabai Besar,1,campuran,1.004,naif,naif,0.0
+Sulawesi Tengah,Cabai Besar,2,campuran,0.946,campuran,naif,0.054
+Sulawesi Tengah,Cabai Besar,3,campuran,0.877,campuran,campuran,0.0
+Sulawesi Tengah,Cabai Rawit,1,campuran,0.827,campuran,campuran,0.0
+Sulawesi Tengah,Cabai Rawit,2,campuran,0.756,campuran,campuran,0.0
+Sulawesi Tengah,Cabai Rawit,3,campuran,0.832,campuran,campuran,0.0
+Sulawesi Tenggara,Bawang Merah,1,hanyut,1.005,naif,naif,0.0
+Sulawesi Tenggara,Bawang Merah,2,campuran,1.007,naif,campuran,0.007
+Sulawesi Tenggara,Bawang Merah,3,campuran,0.936,campuran,campuran,0.0
+Sulawesi Tenggara,Beras,1,hanyut,1.324,naif,naif,0.0
+Sulawesi Tenggara,Beras,2,hanyut,1.359,naif,naif,0.0
+Sulawesi Tenggara,Beras,3,campuran,1.129,naif,naif,0.0
+Sulawesi Tenggara,Cabai Besar,1,campuran,0.871,campuran,naif,0.129
+Sulawesi Tenggara,Cabai Besar,2,campuran,0.783,campuran,naif,0.217
+Sulawesi Tenggara,Cabai Besar,3,campuran,0.852,campuran,campuran,0.0
+Sulawesi Tenggara,Cabai Rawit,1,hanyut,1.068,naif,campuran,0.124
+Sulawesi Tenggara,Cabai Rawit,2,campuran,1.016,naif,campuran,0.016
+Sulawesi Tenggara,Cabai Rawit,3,campuran,0.983,naif,campuran,-0.017
+Sulawesi Utara,Bawang Merah,1,campuran,0.979,naif,naif,0.0
+Sulawesi Utara,Bawang Merah,2,campuran,0.877,campuran,campuran,0.0
+Sulawesi Utara,Bawang Merah,3,campuran,0.826,campuran,campuran,0.0
+Sulawesi Utara,Beras,1,hanyut,1.154,naif,naif,0.0
+Sulawesi Utara,Beras,2,campuran,1.126,naif,naif,0.0
+Sulawesi Utara,Beras,3,campuran,0.812,campuran,naif,0.188
+Sulawesi Utara,Cabai Rawit,1,campuran,0.888,campuran,campuran,0.0
+Sulawesi Utara,Cabai Rawit,2,campuran,0.943,campuran,campuran,0.0
+Sulawesi Utara,Cabai Rawit,3,campuran,1.035,naif,campuran,0.035
+Sumatera Barat,Bawang Merah,1,hanyut,1.062,naif,naif,0.0
+Sumatera Barat,Bawang Merah,2,campuran,0.934,campuran,campuran,0.0
+Sumatera Barat,Bawang Merah,3,campuran,0.855,campuran,campuran,0.0
+Sumatera Barat,Beras,1,hanyut,1.333,naif,naif,0.0
+Sumatera Barat,Beras,2,hanyut,1.448,naif,naif,0.0
+Sumatera Barat,Beras,3,campuran,1.238,naif,naif,0.0
+Sumatera Selatan,Bawang Merah,1,hanyut,1.048,naif,naif,0.0
+Sumatera Selatan,Bawang Merah,2,campuran,0.96,naif,campuran,-0.04
+Sumatera Selatan,Bawang Merah,3,campuran,0.895,campuran,campuran,0.0
+Sumatera Selatan,Beras,1,hanyut,1.543,naif,naif,0.0
+Sumatera Selatan,Beras,2,hanyut,1.171,naif,naif,0.0
+Sumatera Selatan,Beras,3,hanyut,1.218,naif,naif,0.0
+Sumatera Selatan,Cabai Besar,1,hanyut,1.043,naif,naif,0.0
+Sumatera Selatan,Cabai Besar,2,hanyut,1.078,naif,naif,0.0
+Sumatera Selatan,Cabai Besar,3,campuran,0.953,naif,campuran,-0.047
+Sumatera Selatan,Cabai Rawit,1,campuran,0.98,naif,campuran,-0.02
+Sumatera Selatan,Cabai Rawit,2,campuran,0.914,campuran,campuran,0.0
+Sumatera Selatan,Cabai Rawit,3,campuran,0.883,campuran,campuran,0.0
+Sumatera Utara,Bawang Merah,1,campuran,0.884,campuran,naif,0.116
+Sumatera Utara,Bawang Merah,2,campuran,0.88,campuran,campuran,0.0
+Sumatera Utara,Bawang Merah,3,campuran,0.922,campuran,campuran,0.0
+Sumatera Utara,Beras,1,hanyut,1.033,naif,naif,0.0
+Sumatera Utara,Beras,2,hanyut,1.119,naif,naif,0.0
+Sumatera Utara,Beras,3,hanyut,1.208,naif,naif,0.0
+Sumatera Utara,Cabai Rawit,1,campuran,0.933,campuran,campuran,0.0
+Sumatera Utara,Cabai Rawit,2,musiman,0.704,musiman,campuran,0.102
+Sumatera Utara,Cabai Rawit,3,musiman,0.633,musiman,campuran,0.114

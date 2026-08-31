@@ -1,0 +1,118 @@
+komoditas,asal,tujuan,volume_ton,biaya_rp
+Beras,Gorontalo,Maluku Utara,13610.3,9240.99
+Beras,Gorontalo,Papua Barat,6805.1,10089.59
+Beras,Gorontalo,Sulawesi Utara,13610.3,1697.24
+Beras,Jawa Barat,Banten,80106.8,14040.68
+Beras,Jawa Barat,DKI Jakarta,399926.1,45027.83
+Beras,Jawa Tengah,DI Yogyakarta,32110.2,2849.18
+Beras,Kalimantan Barat,Kalimantan Timur,781.7,461.85
+Beras,Kalimantan Barat,Kalimantan Utara,390.8,265.3
+Beras,Kalimantan Barat,Kepulauan Riau,781.7,475.24
+Beras,Kalimantan Selatan,Kalimantan Tengah,3790.1,1086.22
+Beras,Kalimantan Selatan,Kalimantan Timur,108467.1,50513.12
+Beras,Kalimantan Selatan,Kalimantan Utara,32154.8,24630.47
+Beras,Lampung,DKI Jakarta,275084.0,64872.99
+Beras,Lampung,Kepulauan Bangka Belitung,60162.8,13421.74
+Beras,Nusa Tenggara Barat,Nusa Tenggara Timur,26228.2,12477.13
+Beras,Sulawesi Barat,Kalimantan Timur,25697.3,14522.38
+Beras,Sulawesi Selatan,Kalimantan Timur,4894.8,3468.68
+Beras,Sulawesi Selatan,Papua,116018.1,305577.11
+Beras,Sulawesi Tengah,Maluku,42971.0,53539.73
+Beras,Sulawesi Tengah,Maluku Utara,58184.1,56611.86
+Beras,Sulawesi Tengah,Papua,66927.6,165696.84
+Beras,Sulawesi Tengah,Papua Barat,191.6,320.68
+Beras,Sulawesi Tengah,Sulawesi Utara,34561.9,15175.97
+Beras,Sulawesi Tenggara,Maluku,39314.0,44407.45
+Beras,Sulawesi Tenggara,Papua,39314.0,92037.18
+Beras,Sulawesi Tenggara,Papua Barat,19657.0,31975.52
+Beras,Sumatera Barat,Riau,129524.6,23204.27
+Beras,Sumatera Selatan,Bengkulu,7930.7,1385.93
+Beras,Sumatera Selatan,Jambi,105607.7,18988.17
+Beras,Sumatera Selatan,Kepulauan Riau,137229.1,123498.68
+Beras,Sumatera Selatan,Riau,181539.6,78257.15
+Beras,Sumatera Utara,Riau,12712.0,3549.19
+Jagung,Jawa Barat,Banten,18396.8,3224.49
+Jagung,Jawa Barat,DKI Jakarta,24529.1,2761.74
+Jagung,Kalimantan Barat,Kepulauan Riau,5002.6,3041.33
+Jagung,Kalimantan Tengah,Kalimantan Timur,6123.9,2749.13
+Jagung,Kalimantan Tengah,Kalimantan Utara,851.8,564.88
+Jagung,Lampung,Kepulauan Bangka Belitung,3515.8,784.35
+Jagung,Maluku,Papua,799.8,984.1
+Jagung,Maluku Utara,Papua,256.0,460.21
+Jagung,Papua Barat,Papua,823.8,737.45
+Jagung,Sulawesi Utara,Papua,6857.6,15251.99
+Jagung,Sumatera Barat,Riau,14534.0,2603.77
+Jagung,Sumatera Selatan,Jambi,125.1,22.49
+Bawang Merah,Jambi,Kepulauan Bangka Belitung,664.0,213.69
+Bawang Merah,Jambi,Lampung,332.0,119.91
+Bawang Merah,Jambi,Sumatera Selatan,664.0,119.39
+Bawang Merah,Jawa Barat,Banten,22490.7,3942.04
+Bawang Merah,Jawa Barat,DKI Jakarta,22490.7,2532.23
+Bawang Merah,Jawa Barat,Lampung,11245.3,3914.78
+Bawang Merah,Jawa Tengah,Banten,5024.2,2288.54
+Bawang Merah,Jawa Tengah,DKI Jakarta,1891.3,716.81
+Bawang Merah,Jawa Tengah,Kalimantan Barat,12984.8,10509.93
+Bawang Merah,Jawa Tengah,Kepulauan Bangka Belitung,2736.4,1747.53
+Bawang Merah,Jawa Tengah,Lampung,8607.5,5101.9
+Bawang Merah,Jawa Timur,Kalimantan Tengah,6377.2,4516.93
+Bawang Merah,Nusa Tenggara Barat,Nusa Tenggara Timur,6428.3,3058.01
+Bawang Merah,Sulawesi Selatan,Gorontalo,2646.4,1837.4
+Bawang Merah,Sulawesi Selatan,Kalimantan Selatan,9363.6,5595.07
+Bawang Merah,Sulawesi Selatan,Kalimantan Timur,8960.7,6350.02
+Bawang Merah,Sulawesi Selatan,Kalimantan Utara,1688.9,1675.64
+Bawang Merah,Sulawesi Selatan,Maluku,4050.6,5730.0
+Bawang Merah,Sulawesi Selatan,Maluku Utara,2637.7,3407.96
+Bawang Merah,Sulawesi Selatan,Papua,11331.2,29844.97
+Bawang Merah,Sulawesi Selatan,Papua Barat,1168.9,2216.31
+Bawang Merah,Sulawesi Selatan,Sulawesi Barat,2726.1,391.12
+Bawang Merah,Sulawesi Selatan,Sulawesi Tengah,4536.1,1600.06
+Bawang Merah,Sulawesi Selatan,Sulawesi Tenggara,5750.6,1712.78
+Bawang Merah,Sulawesi Selatan,Sulawesi Utara,3967.4,3112.13
+Bawang Merah,Sumatera Barat,Bengkulu,4244.1,1552.95
+Bawang Merah,Sumatera Barat,Riau,15163.0,2716.45
+Bawang Merah,Sumatera Barat,Sumatera Selatan,18793.3,8520.2
+Bawang Merah,Sumatera Utara,Aceh,2133.4,762.81
+Bawang Merah,Sumatera Utara,Kepulauan Riau,4902.4,4466.33
+Cabai Besar,Banten,DKI Jakarta,735.9,63.48
+Cabai Besar,Jawa Barat,DKI Jakarta,785.2,88.41
+Kentang,DI Yogyakarta,Jawa Barat,3676.2,1221.07
+Kentang,Jambi,Aceh,105.3,95.7
+Kentang,Jambi,Riau,52.6,14.38
+Kentang,Jambi,Sumatera Utara,105.3,58.06
+Kentang,Jawa Tengah,Aceh,867.1,1595.8
+Kentang,Jawa Tengah,Banten,2802.8,1276.71
+Kentang,Jawa Tengah,Bengkulu,9.1,8.35
+Kentang,Jawa Tengah,DKI Jakarta,2562.1,971.03
+Kentang,Jawa Tengah,Jawa Barat,6590.8,1863.62
+Kentang,Jawa Tengah,Kalimantan Barat,543.6,440.02
+Kentang,Jawa Tengah,Kepulauan Bangka Belitung,169.7,108.35
+Kentang,Jawa Tengah,Kepulauan Riau,524.0,663.33
+Kentang,Jawa Tengah,Riau,259.6,312.34
+Kentang,Jawa Tengah,Sumatera Selatan,626.2,497.64
+Kentang,Jawa Tengah,Sumatera Utara,1522.0,2255.65
+Kentang,Jawa Timur,Bali,790.7,278.59
+Kentang,Jawa Timur,Gorontalo,124.6,212.9
+Kentang,Jawa Timur,Jawa Barat,537.0,283.47
+Kentang,Jawa Timur,Kalimantan Barat,394.2,337.76
+Kentang,Jawa Timur,Kalimantan Tengah,430.4,304.83
+Kentang,Jawa Timur,Kalimantan Timur,142.8,156.35
+Kentang,Jawa Timur,Nusa Tenggara Timur,1023.4,1129.45
+Kentang,Jawa Timur,Sulawesi Barat,354.9,368.22
+Kentang,Jawa Timur,Sulawesi Selatan,1287.2,1376.81
+Kentang,Jawa Timur,Sulawesi Tenggara,436.1,573.75
+Kentang,Jawa Timur,Sulawesi Utara,277.4,504.51
+Kentang,Kalimantan Selatan,Gorontalo,9.3,10.33
+Kentang,Kalimantan Selatan,Kalimantan Timur,9.3,4.34
+Kentang,Kalimantan Selatan,Sulawesi Utara,4.7,5.72
+Kentang,Kalimantan Utara,Gorontalo,160.7,155.74
+Kentang,Kalimantan Utara,Kalimantan Timur,160.7,51.05
+Kentang,Kalimantan Utara,Sulawesi Utara,80.4,87.11
+Kentang,Lampung,Aceh,114.1,143.14
+Kentang,Lampung,Bengkulu,228.1,76.18
+Kentang,Lampung,Sumatera Selatan,228.1,46.43
+Kentang,Nusa Tenggara Barat,Nusa Tenggara Timur,76.9,36.57
+Kentang,Nusa Tenggara Barat,Sulawesi Selatan,38.4,27.76
+Kentang,Nusa Tenggara Barat,Sulawesi Tenggara,76.9,65.73
+Kentang,Papua,Maluku,362.2,445.69
+Kentang,Papua,Maluku Utara,258.5,464.79
+Kentang,Papua,Papua Barat,104.3,93.36

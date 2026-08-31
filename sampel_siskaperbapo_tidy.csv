@@ -1,0 +1,841 @@
+tanggal,kabkota,pasar,komoditas,harga
+2023-03-22,Kota Surabaya,Pasar Genteng,beras,12500
+2023-03-23,Kota Surabaya,Pasar Genteng,beras,12500
+2023-03-24,Kota Surabaya,Pasar Genteng,beras,12500
+2023-03-25,Kota Surabaya,Pasar Genteng,beras,12500
+2023-03-26,Kota Surabaya,Pasar Genteng,beras,12500
+2023-03-27,Kota Surabaya,Pasar Genteng,beras,12500
+2023-03-28,Kota Surabaya,Pasar Genteng,beras,0
+2023-03-22,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-23,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-24,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-25,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-26,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-27,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-28,Kota Surabaya,Pasar Keputran,beras,12500
+2023-03-22,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-23,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-24,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-25,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-26,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-27,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-28,Kota Surabaya,Pasar Pucang Anom,beras,12500
+2023-03-22,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-23,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-24,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-25,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-26,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-27,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-28,Kota Surabaya,Pasar Soponyono,beras,12500
+2023-03-22,Kota Surabaya,Pasar Tambahrejo,beras,12500
+2023-03-23,Kota Surabaya,Pasar Tambahrejo,beras,12500
+2023-03-24,Kota Surabaya,Pasar Tambahrejo,beras,12500
+2023-03-25,Kota Surabaya,Pasar Tambahrejo,beras,12500
+2023-03-26,Kota Surabaya,Pasar Tambahrejo,beras,12500
+2023-03-27,Kota Surabaya,Pasar Tambahrejo,beras,12500
+2023-03-28,Kota Surabaya,Pasar Tambahrejo,beras,0
+2023-03-22,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-23,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-24,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-25,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-26,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-27,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-28,Kota Surabaya,Pasar Wonokromo,beras,12500
+2023-03-22,Kota Malang,Pasar Besar,beras,12500
+2023-03-23,Kota Malang,Pasar Besar,beras,12500
+2023-03-24,Kota Malang,Pasar Besar,beras,12500
+2023-03-25,Kota Malang,Pasar Besar,beras,12500
+2023-03-26,Kota Malang,Pasar Besar,beras,12500
+2023-03-27,Kota Malang,Pasar Besar,beras,12500
+2023-03-28,Kota Malang,Pasar Besar,beras,0
+2023-03-22,Kota Malang,Pasar Blimbing,beras,12500
+2023-03-23,Kota Malang,Pasar Blimbing,beras,12500
+2023-03-24,Kota Malang,Pasar Blimbing,beras,12500
+2023-03-25,Kota Malang,Pasar Blimbing,beras,12500
+2023-03-26,Kota Malang,Pasar Blimbing,beras,12500
+2023-03-27,Kota Malang,Pasar Blimbing,beras,12500
+2023-03-28,Kota Malang,Pasar Blimbing,beras,0
+2023-03-22,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-23,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-24,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-25,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-26,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-27,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-28,Kota Malang,Pasar Dinoyo,beras,12500
+2023-03-22,Kota Malang,Pasar Klojen,beras,12500
+2023-03-23,Kota Malang,Pasar Klojen,beras,12500
+2023-03-24,Kota Malang,Pasar Klojen,beras,12500
+2023-03-25,Kota Malang,Pasar Klojen,beras,12500
+2023-03-26,Kota Malang,Pasar Klojen,beras,12500
+2023-03-27,Kota Malang,Pasar Klojen,beras,12500
+2023-03-28,Kota Malang,Pasar Klojen,beras,12500
+2023-03-22,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-23,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-24,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-25,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-26,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-27,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-28,Kota Malang,Pasar Oro-oro Dowo,beras,12500
+2023-03-22,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-23,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-24,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-25,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-26,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-27,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-28,Kota Malang,Pasar Tawangmangu,beras,12500
+2023-03-22,Kota Kediri,Pasar Bandar,beras,12500
+2023-03-23,Kota Kediri,Pasar Bandar,beras,12500
+2023-03-24,Kota Kediri,Pasar Bandar,beras,12500
+2023-03-25,Kota Kediri,Pasar Bandar,beras,12500
+2023-03-26,Kota Kediri,Pasar Bandar,beras,12500
+2023-03-27,Kota Kediri,Pasar Bandar,beras,12500
+2023-03-28,Kota Kediri,Pasar Bandar,beras,0
+2023-03-22,Kota Kediri,Pasar Pahing,beras,12500
+2023-03-23,Kota Kediri,Pasar Pahing,beras,12500
+2023-03-24,Kota Kediri,Pasar Pahing,beras,12500
+2023-03-25,Kota Kediri,Pasar Pahing,beras,12500
+2023-03-26,Kota Kediri,Pasar Pahing,beras,12500
+2023-03-27,Kota Kediri,Pasar Pahing,beras,12500
+2023-03-28,Kota Kediri,Pasar Pahing,beras,0
+2023-03-22,Kota Kediri,Pasar Setono Betek,beras,12500
+2023-03-23,Kota Kediri,Pasar Setono Betek,beras,12500
+2023-03-24,Kota Kediri,Pasar Setono Betek,beras,12500
+2023-03-25,Kota Kediri,Pasar Setono Betek,beras,12500
+2023-03-26,Kota Kediri,Pasar Setono Betek,beras,12500
+2023-03-27,Kota Kediri,Pasar Setono Betek,beras,12500
+2023-03-28,Kota Kediri,Pasar Setono Betek,beras,0
+2023-03-22,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-23,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-24,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-25,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-26,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-27,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-28,Kabupaten Jember,Pasar Kreongan,beras,12500
+2023-03-22,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-23,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-24,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-25,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-26,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-27,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-28,Kabupaten Jember,Pasar Mangli,beras,12500
+2023-03-22,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-23,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-24,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-25,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-26,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-27,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-28,Kabupaten Jember,Pasar Tanjung,beras,12500
+2023-03-22,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-23,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-24,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-25,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-26,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-27,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-28,Kabupaten Jember,Pasar Tegal Besar,beras,12500
+2023-03-22,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-23,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-24,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-25,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-26,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-27,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-28,Kabupaten Jember,Pasar Wirolegi,beras,12500
+2023-03-22,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-23,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-24,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-25,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-26,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-27,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-28,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,12500
+2023-03-22,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-23,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-24,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-25,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-26,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-27,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-28,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,12500
+2023-03-22,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-23,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-24,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-25,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-26,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-27,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-28,Kabupaten Bangkalan,Pasar Senenan,beras,12500
+2023-03-22,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-23,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-24,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-25,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-26,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-27,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-28,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,12500
+2023-03-22,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-23,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-24,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-25,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-26,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-27,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-28,Kabupaten Banyuwangi,Pasar Blambangan,beras,12500
+2023-03-22,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-23,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-24,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-25,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-26,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-27,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-28,Kabupaten Banyuwangi,Pasar Genteng I,beras,12500
+2023-03-22,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-23,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-24,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-25,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-26,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-27,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-28,Kabupaten Banyuwangi,Pasar Jajag,beras,12500
+2023-03-22,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-23,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-24,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-25,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-26,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-27,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-28,Kabupaten Banyuwangi,Pasar Rogojampi,beras,12500
+2023-03-22,Kabupaten Blitar,Pasar Lodoyo,beras,12500
+2023-03-23,Kabupaten Blitar,Pasar Lodoyo,beras,12500
+2023-03-24,Kabupaten Blitar,Pasar Lodoyo,beras,12500
+2023-03-25,Kabupaten Blitar,Pasar Lodoyo,beras,12500
+2023-03-26,Kabupaten Blitar,Pasar Lodoyo,beras,12500
+2023-03-27,Kabupaten Blitar,Pasar Lodoyo,beras,12500
+2023-03-28,Kabupaten Blitar,Pasar Lodoyo,beras,0
+2023-03-22,Kabupaten Blitar,Pasar Wlingi,beras,12500
+2023-03-23,Kabupaten Blitar,Pasar Wlingi,beras,12500
+2023-03-24,Kabupaten Blitar,Pasar Wlingi,beras,12500
+2023-03-25,Kabupaten Blitar,Pasar Wlingi,beras,12500
+2023-03-26,Kabupaten Blitar,Pasar Wlingi,beras,12500
+2023-03-27,Kabupaten Blitar,Pasar Wlingi,beras,12500
+2023-03-28,Kabupaten Blitar,Pasar Wlingi,beras,0
+2023-03-22,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-23,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-24,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-25,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-26,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-27,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-28,Kabupaten Bojonegoro,Pasar Kota Baru,beras,12500
+2023-03-22,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-23,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-24,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-25,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-26,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-27,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-28,Kabupaten Bojonegoro,Pasar Wisata,beras,12500
+2023-03-22,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-23,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-24,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-25,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-26,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-27,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-28,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,12500
+2023-03-22,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-23,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-24,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-25,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-26,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-27,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-28,Kabupaten Bondowoso,Pasar Maesan,beras,12500
+2023-03-22,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-23,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-24,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-25,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-26,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-27,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-28,Kabupaten Bondowoso,Pasar Prajekan,beras,12500
+2023-03-22,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-23,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-24,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-25,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-26,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-27,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-28,Kabupaten Bondowoso,Pasar Wonosari,beras,12500
+2023-03-22,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-23,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-24,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-25,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-26,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-27,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-28,Kabupaten Gresik,Pasar Baru,beras,12500
+2023-03-22,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-23,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-24,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-25,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-26,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-27,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-28,Kabupaten Gresik,Pasar Kota,beras,12500
+2023-03-22,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-23,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-24,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-25,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-26,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-27,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-28,Kabupaten Gresik,Pasar Sidomoro,beras,12500
+2023-03-22,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-23,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-24,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-25,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-26,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-27,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-28,Kabupaten Jombang,Pasar Cukir,beras,12500
+2023-03-22,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-23,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-24,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-25,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-26,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-27,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-28,Kabupaten Jombang,Pasar Ploso,beras,12500
+2023-03-22,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-23,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-24,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-25,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-26,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-27,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-28,Kabupaten Jombang,Pasar Pon,beras,12500
+2023-03-22,Kabupaten Kediri,Pasar Gringging,beras,12500
+2023-03-23,Kabupaten Kediri,Pasar Gringging,beras,12500
+2023-03-24,Kabupaten Kediri,Pasar Gringging,beras,12500
+2023-03-25,Kabupaten Kediri,Pasar Gringging,beras,12500
+2023-03-26,Kabupaten Kediri,Pasar Gringging,beras,12500
+2023-03-27,Kabupaten Kediri,Pasar Gringging,beras,12500
+2023-03-28,Kabupaten Kediri,Pasar Gringging,beras,0
+2023-03-22,Kabupaten Kediri,Pasar Ngadiluwih,beras,12500
+2023-03-23,Kabupaten Kediri,Pasar Ngadiluwih,beras,12500
+2023-03-24,Kabupaten Kediri,Pasar Ngadiluwih,beras,12500
+2023-03-25,Kabupaten Kediri,Pasar Ngadiluwih,beras,12500
+2023-03-26,Kabupaten Kediri,Pasar Ngadiluwih,beras,12500
+2023-03-27,Kabupaten Kediri,Pasar Ngadiluwih,beras,12500
+2023-03-28,Kabupaten Kediri,Pasar Ngadiluwih,beras,0
+2023-03-22,Kabupaten Kediri,Pasar Pamenang,beras,12500
+2023-03-23,Kabupaten Kediri,Pasar Pamenang,beras,12500
+2023-03-24,Kabupaten Kediri,Pasar Pamenang,beras,12500
+2023-03-25,Kabupaten Kediri,Pasar Pamenang,beras,12500
+2023-03-26,Kabupaten Kediri,Pasar Pamenang,beras,12500
+2023-03-27,Kabupaten Kediri,Pasar Pamenang,beras,12500
+2023-03-28,Kabupaten Kediri,Pasar Pamenang,beras,0
+2023-03-22,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-23,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-24,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-25,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-26,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-27,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-28,Kabupaten Lamongan,Pasar Babat,beras,12500
+2023-03-22,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-23,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-24,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-25,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-26,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-27,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-28,Kabupaten Lamongan,Pasar Blimbing,beras,12500
+2023-03-22,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-23,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-24,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-25,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-26,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-27,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-28,Kabupaten Lamongan,Pasar Mantup,beras,12500
+2023-03-22,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-23,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-24,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-25,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-26,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-27,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-28,Kabupaten Lamongan,Pasar Sidoharjo,beras,12500
+2023-03-22,Kabupaten Lumajang,Pasar Baru,beras,12500
+2023-03-23,Kabupaten Lumajang,Pasar Baru,beras,12500
+2023-03-24,Kabupaten Lumajang,Pasar Baru,beras,12500
+2023-03-25,Kabupaten Lumajang,Pasar Baru,beras,12500
+2023-03-26,Kabupaten Lumajang,Pasar Baru,beras,12500
+2023-03-27,Kabupaten Lumajang,Pasar Baru,beras,12500
+2023-03-28,Kabupaten Lumajang,Pasar Baru,beras,0
+2023-03-22,Kabupaten Lumajang,Pasar Pasirian,beras,12500
+2023-03-23,Kabupaten Lumajang,Pasar Pasirian,beras,12500
+2023-03-24,Kabupaten Lumajang,Pasar Pasirian,beras,12500
+2023-03-25,Kabupaten Lumajang,Pasar Pasirian,beras,12500
+2023-03-26,Kabupaten Lumajang,Pasar Pasirian,beras,12500
+2023-03-27,Kabupaten Lumajang,Pasar Pasirian,beras,12500
+2023-03-28,Kabupaten Lumajang,Pasar Pasirian,beras,0
+2023-03-22,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-23,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-24,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-25,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-26,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-27,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-28,Kabupaten Lumajang,Pasar Sukodono,beras,12500
+2023-03-22,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-23,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-24,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-25,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-26,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-27,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-28,Kabupaten Madiun,Pasar Dolopo,beras,12500
+2023-03-22,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-23,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-24,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-25,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-26,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-27,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-28,Kabupaten Madiun,Pasar Dungus,beras,12500
+2023-03-22,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-23,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-24,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-25,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-26,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-27,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-28,Kabupaten Madiun,Pasar Pagotan,beras,12500
+2023-03-22,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-23,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-24,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-25,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-26,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-27,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-28,Kabupaten Madiun,Pasar Umum Caruban,beras,12500
+2023-03-22,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-23,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-24,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-25,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-26,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-27,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-28,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,12500
+2023-03-22,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-23,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-24,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-25,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-26,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-27,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-28,Kabupaten Magetan,Pasar Maospati,beras,12500
+2023-03-22,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-23,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-24,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-25,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-26,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-27,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-28,Kabupaten Magetan,Pasar Sayur I,beras,12500
+2023-03-22,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-23,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-24,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-25,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-26,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-27,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-28,Kabupaten Malang,Pasar Karang Ploso,beras,12500
+2023-03-22,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-23,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-24,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-25,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-26,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-27,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-28,Kabupaten Malang,Pasar Kepanjen,beras,12500
+2023-03-22,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-23,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-24,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-25,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-26,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-27,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-28,Kabupaten Malang,Pasar Lawang,beras,12500
+2023-03-22,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-23,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-24,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-25,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-26,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-27,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-28,Kabupaten Malang,Pasar Singosari,beras,12500
+2023-03-22,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-23,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-24,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-25,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-26,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-27,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-28,Kabupaten Malang,Pasar Turen,beras,12500
+2023-03-22,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-23,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-24,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-25,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-26,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-27,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-28,Kabupaten Mojokerto,Pasar Gempol Kerep,beras,12500
+2023-03-22,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-23,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-24,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-25,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-26,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-27,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-28,Kabupaten Mojokerto,Pasar Kedung Maling,beras,12500
+2023-03-22,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-23,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-24,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-25,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-26,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-27,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-28,Kabupaten Mojokerto,Pasar Poh Jejer,beras,12500
+2023-03-22,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-23,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-24,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-25,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-26,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-27,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-28,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,12500
+2023-03-22,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-23,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-24,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-25,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-26,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-27,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-28,Kabupaten Nganjuk,Pasar Berbek,beras,12500
+2023-03-22,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-23,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-24,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-25,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-26,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-27,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-28,Kabupaten Nganjuk,Pasar Wage,beras,12500
+2023-03-22,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-23,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-24,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-25,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-26,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-27,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-28,Kabupaten Nganjuk,Pasar Warujayeng,beras,12500
+2023-03-22,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-23,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-24,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-25,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-26,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-27,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-28,Kabupaten Ngawi,Pasar Beran,beras,12500
+2023-03-22,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-23,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-24,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-25,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-26,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-27,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-28,Kabupaten Ngawi,Pasar Besar Ngawi,beras,12500
+2023-03-22,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-23,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-24,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-25,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-26,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-27,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-28,Kabupaten Ngawi,Pasar Paron,beras,12500
+2023-03-22,Kabupaten Pacitan,Pasar Arjosari,beras,12500
+2023-03-23,Kabupaten Pacitan,Pasar Arjosari,beras,12500
+2023-03-24,Kabupaten Pacitan,Pasar Arjosari,beras,12500
+2023-03-25,Kabupaten Pacitan,Pasar Arjosari,beras,12500
+2023-03-26,Kabupaten Pacitan,Pasar Arjosari,beras,12500
+2023-03-27,Kabupaten Pacitan,Pasar Arjosari,beras,12500
+2023-03-28,Kabupaten Pacitan,Pasar Arjosari,beras,0
+2023-03-22,Kabupaten Pacitan,Pasar Arjowinangun,beras,12500
+2023-03-23,Kabupaten Pacitan,Pasar Arjowinangun,beras,12500
+2023-03-24,Kabupaten Pacitan,Pasar Arjowinangun,beras,12500
+2023-03-25,Kabupaten Pacitan,Pasar Arjowinangun,beras,12500
+2023-03-26,Kabupaten Pacitan,Pasar Arjowinangun,beras,12500
+2023-03-27,Kabupaten Pacitan,Pasar Arjowinangun,beras,12500
+2023-03-28,Kabupaten Pacitan,Pasar Arjowinangun,beras,0
+2023-03-22,Kabupaten Pacitan,Pasar Minulyo,beras,12500
+2023-03-23,Kabupaten Pacitan,Pasar Minulyo,beras,12500
+2023-03-24,Kabupaten Pacitan,Pasar Minulyo,beras,12500
+2023-03-25,Kabupaten Pacitan,Pasar Minulyo,beras,12500
+2023-03-26,Kabupaten Pacitan,Pasar Minulyo,beras,12500
+2023-03-27,Kabupaten Pacitan,Pasar Minulyo,beras,12500
+2023-03-28,Kabupaten Pacitan,Pasar Minulyo,beras,0
+2023-03-22,Kabupaten Pamekasan,Pasar Kolpajung,beras,12500
+2023-03-23,Kabupaten Pamekasan,Pasar Kolpajung,beras,12500
+2023-03-24,Kabupaten Pamekasan,Pasar Kolpajung,beras,12500
+2023-03-25,Kabupaten Pamekasan,Pasar Kolpajung,beras,12500
+2023-03-26,Kabupaten Pamekasan,Pasar Kolpajung,beras,12500
+2023-03-27,Kabupaten Pamekasan,Pasar Kolpajung,beras,12500
+2023-03-28,Kabupaten Pamekasan,Pasar Kolpajung,beras,0
+2023-03-22,Kabupaten Pamekasan,Pasar Waru,beras,12500
+2023-03-23,Kabupaten Pamekasan,Pasar Waru,beras,12500
+2023-03-24,Kabupaten Pamekasan,Pasar Waru,beras,12500
+2023-03-25,Kabupaten Pamekasan,Pasar Waru,beras,12500
+2023-03-26,Kabupaten Pamekasan,Pasar Waru,beras,12500
+2023-03-27,Kabupaten Pamekasan,Pasar Waru,beras,12500
+2023-03-28,Kabupaten Pamekasan,Pasar Waru,beras,0
+2023-03-22,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-23,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-24,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-25,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-26,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-27,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-28,Kabupaten Pasuruan,Pasar Bangil,beras,12500
+2023-03-22,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-23,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-24,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-25,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-26,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-27,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-28,Kabupaten Pasuruan,Pasar Pandaan,beras,12500
+2023-03-22,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-23,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-24,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-25,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-26,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-27,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-28,Kabupaten Pasuruan,Pasar Sukorejo,beras,12500
+2023-03-22,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-23,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-24,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-25,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-26,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-27,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-28,Kabupaten Ponorogo,Pasar Legi,beras,12500
+2023-03-22,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-23,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-24,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-25,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-26,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-27,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-28,Kabupaten Ponorogo,Pasar Sumoroto,beras,12500
+2023-03-22,Kabupaten Probolinggo,Pasar Dringu,beras,12500
+2023-03-23,Kabupaten Probolinggo,Pasar Dringu,beras,12500
+2023-03-24,Kabupaten Probolinggo,Pasar Dringu,beras,12500
+2023-03-25,Kabupaten Probolinggo,Pasar Dringu,beras,12500
+2023-03-26,Kabupaten Probolinggo,Pasar Dringu,beras,12500
+2023-03-27,Kabupaten Probolinggo,Pasar Dringu,beras,12500
+2023-03-28,Kabupaten Probolinggo,Pasar Dringu,beras,0
+2023-03-22,Kabupaten Probolinggo,Pasar Leces,beras,12500
+2023-03-23,Kabupaten Probolinggo,Pasar Leces,beras,12500
+2023-03-24,Kabupaten Probolinggo,Pasar Leces,beras,12500
+2023-03-25,Kabupaten Probolinggo,Pasar Leces,beras,12500
+2023-03-26,Kabupaten Probolinggo,Pasar Leces,beras,12500
+2023-03-27,Kabupaten Probolinggo,Pasar Leces,beras,12500
+2023-03-28,Kabupaten Probolinggo,Pasar Leces,beras,0
+2023-03-22,Kabupaten Probolinggo,Pasar Semampir,beras,12500
+2023-03-23,Kabupaten Probolinggo,Pasar Semampir,beras,12500
+2023-03-24,Kabupaten Probolinggo,Pasar Semampir,beras,12500
+2023-03-25,Kabupaten Probolinggo,Pasar Semampir,beras,12500
+2023-03-26,Kabupaten Probolinggo,Pasar Semampir,beras,12500
+2023-03-27,Kabupaten Probolinggo,Pasar Semampir,beras,12500
+2023-03-28,Kabupaten Probolinggo,Pasar Semampir,beras,0
+2023-03-22,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-23,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-24,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-25,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-26,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-27,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-28,Kabupaten Sampang,Pasar Rongtengah,beras,12500
+2023-03-22,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-23,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-24,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-25,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-26,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-27,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-28,Kabupaten Sampang,Pasar Srimangunan,beras,12500
+2023-03-22,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-23,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-24,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-25,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-26,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-27,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-28,Kabupaten Sidoarjo,Pasar Krian,beras,12500
+2023-03-22,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-23,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-24,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-25,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-26,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-27,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-28,Kabupaten Sidoarjo,Pasar Larangan,beras,12500
+2023-03-22,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-23,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-24,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-25,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-26,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-27,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-28,Kabupaten Situbondo,Pasar Ardirejo,beras,12500
+2023-03-22,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-23,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-24,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-25,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-26,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-27,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-28,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,12500
+2023-03-22,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-23,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-24,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-25,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-26,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-27,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-28,Kabupaten Situbondo,Pasar Sumber Kolak,beras,12500
+2023-03-22,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-23,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-24,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-25,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-26,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-27,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-28,Kabupaten Sumenep,Pasar Anom Baru,beras,12500
+2023-03-22,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-23,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-24,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-25,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-26,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-27,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-28,Kabupaten Sumenep,Pasar Bangkal,beras,12500
+2023-03-22,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-23,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-24,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-25,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-26,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-27,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-28,Kabupaten Trenggalek,Pasar Basah,beras,12500
+2023-03-22,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-23,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-24,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-25,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-26,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-27,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-28,Kabupaten Trenggalek,Pasar Subuh,beras,12500
+2023-03-22,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-23,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-24,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-25,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-26,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-27,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-28,Kabupaten Tuban,Pasar Bangilan,beras,12500
+2023-03-22,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-23,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-24,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-25,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-26,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-27,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-28,Kabupaten Tuban,Pasar Baru Tuban,beras,12500
+2023-03-22,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-23,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-24,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-25,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-26,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-27,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-28,Kabupaten Tuban,Pasar Jatirogo,beras,12500
+2023-03-22,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-23,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-24,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-25,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-26,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-27,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-28,Kabupaten Tulungagung,Pasar Bandung,beras,12500
+2023-03-22,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-23,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-24,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-25,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-26,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-27,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-28,Kabupaten Tulungagung,Pasar Ngunut,beras,12500
+2023-03-22,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-23,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-24,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-25,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-26,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-27,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-28,Kabupaten Tulungagung,Pasar Wage (Pasar Ngemplak),beras,12500
+2023-03-22,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-23,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-24,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-25,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-26,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-27,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-28,Kota Batu,Pasar Besar Kota Batu,beras,12500
+2023-03-22,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-23,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-24,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-25,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-26,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-27,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-28,Kota Batu,Pasar Gentengan,beras,12500
+2023-03-22,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-23,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-24,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-25,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-26,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-27,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-28,Kota Batu,Pasar Pesanggrahan,beras,12500
+2023-03-22,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-23,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-24,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-25,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-26,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-27,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-28,Kota Batu,Pasar Songgoriti,beras,12500
+2023-03-22,Kota Blitar,Pasar Legi,beras,12500
+2023-03-23,Kota Blitar,Pasar Legi,beras,12500
+2023-03-24,Kota Blitar,Pasar Legi,beras,12500
+2023-03-25,Kota Blitar,Pasar Legi,beras,12500
+2023-03-26,Kota Blitar,Pasar Legi,beras,12500
+2023-03-27,Kota Blitar,Pasar Legi,beras,12500
+2023-03-28,Kota Blitar,Pasar Legi,beras,12500
+2023-03-22,Kota Blitar,Pasar Pon,beras,12500
+2023-03-23,Kota Blitar,Pasar Pon,beras,12500
+2023-03-24,Kota Blitar,Pasar Pon,beras,12500
+2023-03-25,Kota Blitar,Pasar Pon,beras,12500
+2023-03-26,Kota Blitar,Pasar Pon,beras,12500
+2023-03-27,Kota Blitar,Pasar Pon,beras,12500
+2023-03-28,Kota Blitar,Pasar Pon,beras,12500
+2023-03-22,Kota Madiun,Pasar Besar,beras,12500
+2023-03-23,Kota Madiun,Pasar Besar,beras,12500
+2023-03-24,Kota Madiun,Pasar Besar,beras,12500
+2023-03-25,Kota Madiun,Pasar Besar,beras,12500
+2023-03-26,Kota Madiun,Pasar Besar,beras,12500
+2023-03-27,Kota Madiun,Pasar Besar,beras,12500
+2023-03-28,Kota Madiun,Pasar Besar,beras,12500
+2023-03-22,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-23,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-24,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-25,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-26,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-27,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-28,Kota Madiun,Pasar Sleko,beras,12500
+2023-03-22,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-23,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-24,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-25,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-26,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-27,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-28,Kota Madiun,Pasar Srijaya,beras,12500
+2023-03-22,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-23,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-24,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-25,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-26,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-27,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-28,Kota Mojokerto,Pasar Prajuritkulon,beras,12500
+2023-03-22,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-23,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-24,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-25,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-26,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-27,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-28,Kota Mojokerto,Pasar Tanjung Anyar,beras,12500
+2023-03-22,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-23,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-24,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-25,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-26,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-27,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-28,Kota Pasuruan,Pasar Besar,beras,0
+2023-03-22,Kota Pasuruan,Pasar Kebonagung,beras,12500
+2023-03-23,Kota Pasuruan,Pasar Kebonagung,beras,12500
+2023-03-24,Kota Pasuruan,Pasar Kebonagung,beras,12500
+2023-03-25,Kota Pasuruan,Pasar Kebonagung,beras,12500
+2023-03-26,Kota Pasuruan,Pasar Kebonagung,beras,12500
+2023-03-27,Kota Pasuruan,Pasar Kebonagung,beras,12500
+2023-03-28,Kota Pasuruan,Pasar Kebonagung,beras,0
+2023-03-22,Kota Probolinggo,Pasar Baru,beras,12500
+2023-03-23,Kota Probolinggo,Pasar Baru,beras,12500
+2023-03-24,Kota Probolinggo,Pasar Baru,beras,12500
+2023-03-25,Kota Probolinggo,Pasar Baru,beras,12500
+2023-03-26,Kota Probolinggo,Pasar Baru,beras,12500
+2023-03-27,Kota Probolinggo,Pasar Baru,beras,12500
+2023-03-28,Kota Probolinggo,Pasar Baru,beras,0
+2023-03-22,Kota Probolinggo,Pasar Kronong,beras,12500
+2023-03-23,Kota Probolinggo,Pasar Kronong,beras,12500
+2023-03-24,Kota Probolinggo,Pasar Kronong,beras,12500
+2023-03-25,Kota Probolinggo,Pasar Kronong,beras,12500
+2023-03-26,Kota Probolinggo,Pasar Kronong,beras,12500
+2023-03-27,Kota Probolinggo,Pasar Kronong,beras,12500
+2023-03-28,Kota Probolinggo,Pasar Kronong,beras,0
+2023-03-22,Kota Probolinggo,Pasar Wonoasih,beras,12500
+2023-03-23,Kota Probolinggo,Pasar Wonoasih,beras,12500
+2023-03-24,Kota Probolinggo,Pasar Wonoasih,beras,12500
+2023-03-25,Kota Probolinggo,Pasar Wonoasih,beras,12500
+2023-03-26,Kota Probolinggo,Pasar Wonoasih,beras,12500
+2023-03-27,Kota Probolinggo,Pasar Wonoasih,beras,12500
+2023-03-28,Kota Probolinggo,Pasar Wonoasih,beras,0

@@ -1,0 +1,848 @@
+tanggal,kabkota,pasar,komoditas,harga
+2026-08-16,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-17,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-18,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-19,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-20,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-21,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-22,Kota Surabaya,Pasar Genteng,beras,14500
+2026-08-16,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-17,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-18,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-19,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-20,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-21,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-22,Kota Surabaya,Pasar Keputran,beras,16000
+2026-08-16,Kota Surabaya,Pasar Pucang Anom,beras,16000
+2026-08-17,Kota Surabaya,Pasar Pucang Anom,beras,16000
+2026-08-18,Kota Surabaya,Pasar Pucang Anom,beras,16000
+2026-08-19,Kota Surabaya,Pasar Pucang Anom,beras,16000
+2026-08-20,Kota Surabaya,Pasar Pucang Anom,beras,16000
+2026-08-21,Kota Surabaya,Pasar Pucang Anom,beras,16000
+2026-08-22,Kota Surabaya,Pasar Pucang Anom,beras,17000
+2026-08-16,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-17,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-18,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-19,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-20,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-21,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-22,Kota Surabaya,Pasar Soponyono,beras,15000
+2026-08-16,Kota Surabaya,Pasar Tambahrejo,beras,16500
+2026-08-17,Kota Surabaya,Pasar Tambahrejo,beras,16500
+2026-08-18,Kota Surabaya,Pasar Tambahrejo,beras,16500
+2026-08-19,Kota Surabaya,Pasar Tambahrejo,beras,16500
+2026-08-20,Kota Surabaya,Pasar Tambahrejo,beras,16500
+2026-08-21,Kota Surabaya,Pasar Tambahrejo,beras,16500
+2026-08-22,Kota Surabaya,Pasar Tambahrejo,beras,0
+2026-08-16,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-17,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-18,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-19,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-20,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-21,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-22,Kota Surabaya,Pasar Wonokromo,beras,15500
+2026-08-16,Kota Malang,Pasar Besar,beras,17000
+2026-08-17,Kota Malang,Pasar Besar,beras,17000
+2026-08-18,Kota Malang,Pasar Besar,beras,17500
+2026-08-19,Kota Malang,Pasar Besar,beras,17500
+2026-08-20,Kota Malang,Pasar Besar,beras,17000
+2026-08-21,Kota Malang,Pasar Besar,beras,17000
+2026-08-22,Kota Malang,Pasar Besar,beras,17000
+2026-08-16,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-17,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-18,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-19,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-20,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-21,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-22,Kota Malang,Pasar Blimbing,beras,15000
+2026-08-16,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-17,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-18,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-19,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-20,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-21,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-22,Kota Malang,Pasar Dinoyo,beras,15400
+2026-08-16,Kota Malang,Pasar Klojen,beras,15000
+2026-08-17,Kota Malang,Pasar Klojen,beras,15000
+2026-08-18,Kota Malang,Pasar Klojen,beras,15000
+2026-08-19,Kota Malang,Pasar Klojen,beras,15000
+2026-08-20,Kota Malang,Pasar Klojen,beras,15000
+2026-08-21,Kota Malang,Pasar Klojen,beras,15000
+2026-08-22,Kota Malang,Pasar Klojen,beras,15000
+2026-08-16,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-17,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-18,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-19,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-20,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-21,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-22,Kota Malang,Pasar Oro-oro Dowo,beras,15000
+2026-08-16,Kota Malang,Pasar Tawangmangu,beras,15000
+2026-08-17,Kota Malang,Pasar Tawangmangu,beras,15000
+2026-08-18,Kota Malang,Pasar Tawangmangu,beras,15000
+2026-08-19,Kota Malang,Pasar Tawangmangu,beras,15000
+2026-08-20,Kota Malang,Pasar Tawangmangu,beras,15800
+2026-08-21,Kota Malang,Pasar Tawangmangu,beras,15800
+2026-08-22,Kota Malang,Pasar Tawangmangu,beras,15800
+2026-08-16,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-17,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-18,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-19,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-20,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-21,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-22,Kota Kediri,Pasar Bandar,beras,15200
+2026-08-16,Kota Kediri,Pasar Pahing,beras,15300
+2026-08-17,Kota Kediri,Pasar Pahing,beras,15300
+2026-08-18,Kota Kediri,Pasar Pahing,beras,15300
+2026-08-19,Kota Kediri,Pasar Pahing,beras,15300
+2026-08-20,Kota Kediri,Pasar Pahing,beras,15300
+2026-08-21,Kota Kediri,Pasar Pahing,beras,15500
+2026-08-22,Kota Kediri,Pasar Pahing,beras,15500
+2026-08-16,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-17,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-18,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-19,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-20,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-21,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-22,Kota Kediri,Pasar Setono Betek,beras,15400
+2026-08-16,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-17,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-18,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-19,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-20,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-21,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-22,Kabupaten Jember,Pasar Kreongan,beras,17000
+2026-08-16,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-17,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-18,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-19,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-20,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-21,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-22,Kabupaten Jember,Pasar Mangli,beras,16500
+2026-08-16,Kabupaten Jember,Pasar Tanjung,beras,16000
+2026-08-17,Kabupaten Jember,Pasar Tanjung,beras,16000
+2026-08-18,Kabupaten Jember,Pasar Tanjung,beras,16000
+2026-08-19,Kabupaten Jember,Pasar Tanjung,beras,16500
+2026-08-20,Kabupaten Jember,Pasar Tanjung,beras,16500
+2026-08-21,Kabupaten Jember,Pasar Tanjung,beras,16500
+2026-08-22,Kabupaten Jember,Pasar Tanjung,beras,16500
+2026-08-16,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-17,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-18,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-19,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-20,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-21,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-22,Kabupaten Jember,Pasar Tegal Besar,beras,16000
+2026-08-16,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-17,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-18,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-19,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-20,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-21,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-22,Kabupaten Jember,Pasar Wirolegi,beras,14800
+2026-08-16,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-17,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-18,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-19,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-20,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-21,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-22,Kabupaten Bangkalan,Pasar Baru Bancaran,beras,14800
+2026-08-16,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-17,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-18,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-19,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-20,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-21,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-22,Kabupaten Bangkalan,Pasar Ki Lemah Duwur,beras,14800
+2026-08-16,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-17,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-18,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-19,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-20,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-21,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-22,Kabupaten Bangkalan,Pasar Senenan,beras,14800
+2026-08-16,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-17,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-18,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-19,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-20,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-21,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-22,Kabupaten Banyuwangi,Pasar Banyuwangi,beras,14900
+2026-08-16,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-17,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-18,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-19,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-20,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-21,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-22,Kabupaten Banyuwangi,Pasar Blambangan,beras,14900
+2026-08-16,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-17,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-18,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-19,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-20,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-21,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-22,Kabupaten Banyuwangi,Pasar Genteng I,beras,14900
+2026-08-16,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-17,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-18,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-19,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-20,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-21,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-22,Kabupaten Banyuwangi,Pasar Jajag,beras,14800
+2026-08-16,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-17,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-18,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-19,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-20,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-21,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-22,Kabupaten Banyuwangi,Pasar Rogojampi,beras,14900
+2026-08-16,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-17,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-18,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-19,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-20,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-21,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-22,Kabupaten Blitar,Pasar Lodoyo,beras,14900
+2026-08-16,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-17,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-18,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-19,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-20,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-21,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-22,Kabupaten Blitar,Pasar Wlingi,beras,14900
+2026-08-16,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-17,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-18,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-19,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-20,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-21,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-22,Kabupaten Bojonegoro,Pasar Kota Baru,beras,14900
+2026-08-16,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-17,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-18,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-19,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-20,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-21,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-22,Kabupaten Bojonegoro,Pasar Wisata (Pasar Kota Lama),beras,14900
+2026-08-16,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-17,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-18,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-19,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-20,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-21,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-22,Kabupaten Bondowoso,Pasar Induk Bondowoso,beras,14800
+2026-08-16,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-17,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-18,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-19,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-20,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-21,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-22,Kabupaten Bondowoso,Pasar Maesan,beras,14700
+2026-08-16,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-17,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-18,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-19,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-20,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-21,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-22,Kabupaten Bondowoso,Pasar Prajekan,beras,14500
+2026-08-16,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-17,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-18,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-19,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-20,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-21,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-22,Kabupaten Bondowoso,Pasar Wonosari,beras,14800
+2026-08-16,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-17,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-18,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-19,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-20,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-21,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-22,Kabupaten Gresik,Pasar Baru,beras,15500
+2026-08-16,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-17,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-18,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-19,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-20,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-21,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-22,Kabupaten Gresik,Pasar Kota,beras,15000
+2026-08-16,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-17,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-18,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-19,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-20,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-21,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-22,Kabupaten Gresik,Pasar Sidomoro,beras,15200
+2026-08-16,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-17,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-18,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-19,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-20,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-21,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-22,Kabupaten Jombang,Pasar Cukir,beras,15800
+2026-08-16,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-17,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-18,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-19,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-20,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-21,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-22,Kabupaten Jombang,Pasar Ploso,beras,15000
+2026-08-16,Kabupaten Jombang,Pasar Pon,beras,14900
+2026-08-17,Kabupaten Jombang,Pasar Pon,beras,14900
+2026-08-18,Kabupaten Jombang,Pasar Pon,beras,15500
+2026-08-19,Kabupaten Jombang,Pasar Pon,beras,15500
+2026-08-20,Kabupaten Jombang,Pasar Pon,beras,15500
+2026-08-21,Kabupaten Jombang,Pasar Pon,beras,15500
+2026-08-22,Kabupaten Jombang,Pasar Pon,beras,15500
+2026-08-16,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-17,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-18,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-19,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-20,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-21,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-22,Kabupaten Kediri,Pasar Gringging,beras,14500
+2026-08-16,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-17,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-18,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-19,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-20,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-21,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-22,Kabupaten Kediri,Pasar Ngadiluwih,beras,14800
+2026-08-16,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-17,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-18,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-19,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-20,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-21,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-22,Kabupaten Kediri,Pasar Pamenang,beras,14500
+2026-08-16,Kabupaten Lamongan,Pasar Babat,beras,14900
+2026-08-17,Kabupaten Lamongan,Pasar Babat,beras,14900
+2026-08-18,Kabupaten Lamongan,Pasar Babat,beras,14900
+2026-08-19,Kabupaten Lamongan,Pasar Babat,beras,14900
+2026-08-20,Kabupaten Lamongan,Pasar Babat,beras,14900
+2026-08-21,Kabupaten Lamongan,Pasar Babat,beras,14900
+2026-08-22,Kabupaten Lamongan,Pasar Babat,beras,0
+2026-08-16,Kabupaten Lamongan,Pasar Blimbing,beras,14900
+2026-08-17,Kabupaten Lamongan,Pasar Blimbing,beras,14900
+2026-08-18,Kabupaten Lamongan,Pasar Blimbing,beras,14900
+2026-08-19,Kabupaten Lamongan,Pasar Blimbing,beras,14900
+2026-08-20,Kabupaten Lamongan,Pasar Blimbing,beras,14900
+2026-08-21,Kabupaten Lamongan,Pasar Blimbing,beras,14900
+2026-08-22,Kabupaten Lamongan,Pasar Blimbing,beras,0
+2026-08-16,Kabupaten Lamongan,Pasar Mantup,beras,14900
+2026-08-17,Kabupaten Lamongan,Pasar Mantup,beras,14900
+2026-08-18,Kabupaten Lamongan,Pasar Mantup,beras,14900
+2026-08-19,Kabupaten Lamongan,Pasar Mantup,beras,14900
+2026-08-20,Kabupaten Lamongan,Pasar Mantup,beras,14900
+2026-08-21,Kabupaten Lamongan,Pasar Mantup,beras,14900
+2026-08-22,Kabupaten Lamongan,Pasar Mantup,beras,0
+2026-08-16,Kabupaten Lamongan,Pasar Sidoharjo,beras,14900
+2026-08-17,Kabupaten Lamongan,Pasar Sidoharjo,beras,14900
+2026-08-18,Kabupaten Lamongan,Pasar Sidoharjo,beras,14900
+2026-08-19,Kabupaten Lamongan,Pasar Sidoharjo,beras,14900
+2026-08-20,Kabupaten Lamongan,Pasar Sidoharjo,beras,14900
+2026-08-21,Kabupaten Lamongan,Pasar Sidoharjo,beras,14900
+2026-08-22,Kabupaten Lamongan,Pasar Sidoharjo,beras,0
+2026-08-16,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-17,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-18,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-19,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-20,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-21,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-22,Kabupaten Lumajang,Pasar Baru,beras,15500
+2026-08-16,Kabupaten Lumajang,Pasar Pasirian,beras,16000
+2026-08-17,Kabupaten Lumajang,Pasar Pasirian,beras,16000
+2026-08-18,Kabupaten Lumajang,Pasar Pasirian,beras,16000
+2026-08-19,Kabupaten Lumajang,Pasar Pasirian,beras,16000
+2026-08-20,Kabupaten Lumajang,Pasar Pasirian,beras,16000
+2026-08-21,Kabupaten Lumajang,Pasar Pasirian,beras,16000
+2026-08-22,Kabupaten Lumajang,Pasar Pasirian,beras,0
+2026-08-16,Kabupaten Lumajang,Pasar Sukodono,beras,15500
+2026-08-17,Kabupaten Lumajang,Pasar Sukodono,beras,15500
+2026-08-18,Kabupaten Lumajang,Pasar Sukodono,beras,15500
+2026-08-19,Kabupaten Lumajang,Pasar Sukodono,beras,15500
+2026-08-20,Kabupaten Lumajang,Pasar Sukodono,beras,15500
+2026-08-21,Kabupaten Lumajang,Pasar Sukodono,beras,15500
+2026-08-22,Kabupaten Lumajang,Pasar Sukodono,beras,0
+2026-08-16,Kabupaten Madiun,Pasar Dolopo,beras,15300
+2026-08-17,Kabupaten Madiun,Pasar Dolopo,beras,15300
+2026-08-18,Kabupaten Madiun,Pasar Dolopo,beras,15300
+2026-08-19,Kabupaten Madiun,Pasar Dolopo,beras,15300
+2026-08-20,Kabupaten Madiun,Pasar Dolopo,beras,15000
+2026-08-21,Kabupaten Madiun,Pasar Dolopo,beras,15000
+2026-08-22,Kabupaten Madiun,Pasar Dolopo,beras,15000
+2026-08-16,Kabupaten Madiun,Pasar Dungus,beras,15300
+2026-08-17,Kabupaten Madiun,Pasar Dungus,beras,15300
+2026-08-18,Kabupaten Madiun,Pasar Dungus,beras,15300
+2026-08-19,Kabupaten Madiun,Pasar Dungus,beras,15300
+2026-08-20,Kabupaten Madiun,Pasar Dungus,beras,15000
+2026-08-21,Kabupaten Madiun,Pasar Dungus,beras,15000
+2026-08-22,Kabupaten Madiun,Pasar Dungus,beras,15000
+2026-08-16,Kabupaten Madiun,Pasar Pagotan,beras,15400
+2026-08-17,Kabupaten Madiun,Pasar Pagotan,beras,15400
+2026-08-18,Kabupaten Madiun,Pasar Pagotan,beras,15400
+2026-08-19,Kabupaten Madiun,Pasar Pagotan,beras,15400
+2026-08-20,Kabupaten Madiun,Pasar Pagotan,beras,15000
+2026-08-21,Kabupaten Madiun,Pasar Pagotan,beras,15000
+2026-08-22,Kabupaten Madiun,Pasar Pagotan,beras,15000
+2026-08-16,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-17,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-18,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-19,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-20,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-21,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-22,Kabupaten Madiun,Pasar Umum Caruban,beras,15200
+2026-08-16,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-17,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-18,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-19,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-20,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-21,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-22,Kabupaten Magetan,Pasar Gorang Gareng I Kawedanan,beras,14900
+2026-08-16,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-17,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-18,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-19,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-20,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-21,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-22,Kabupaten Magetan,Pasar Maospati,beras,14900
+2026-08-16,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-17,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-18,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-19,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-20,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-21,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-22,Kabupaten Magetan,Pasar Sayur I,beras,14900
+2026-08-16,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-17,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-18,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-19,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-20,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-21,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-22,Kabupaten Malang,Pasar Karang Ploso,beras,14900
+2026-08-16,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-17,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-18,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-19,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-20,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-21,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-22,Kabupaten Malang,Pasar Kepanjen,beras,14900
+2026-08-16,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-17,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-18,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-19,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-20,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-21,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-22,Kabupaten Malang,Pasar Lawang,beras,15000
+2026-08-16,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-17,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-18,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-19,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-20,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-21,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-22,Kabupaten Malang,Pasar Singosari,beras,14900
+2026-08-16,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-17,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-18,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-19,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-20,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-21,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-22,Kabupaten Malang,Pasar Turen,beras,15000
+2026-08-16,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-17,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-18,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-19,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-20,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-21,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-22,Kabupaten Mojokerto,Pasar Gempol  Kerep,beras,14500
+2026-08-16,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-17,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-18,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-19,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-20,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-21,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-22,Kabupaten Mojokerto,Pasar Kedung Maling,beras,14500
+2026-08-16,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-17,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-18,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-19,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-20,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-21,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-22,Kabupaten Mojokerto,Pasar Poh Jejer,beras,15000
+2026-08-16,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-17,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-18,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-19,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-20,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-21,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-22,Kabupaten Mojokerto,Pasar Raya Mojosari,beras,14450
+2026-08-16,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-17,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-18,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-19,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-20,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-21,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-22,Kabupaten Nganjuk,Pasar Berbek,beras,15500
+2026-08-16,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-17,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-18,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-19,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-20,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-21,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-22,Kabupaten Nganjuk,Pasar Wage,beras,15000
+2026-08-16,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-17,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-18,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-19,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-20,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-21,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-22,Kabupaten Nganjuk,Pasar Warujayeng,beras,15500
+2026-08-16,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-17,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-18,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-19,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-20,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-21,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-22,Kabupaten Ngawi,Pasar Beran,beras,14900
+2026-08-16,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-17,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-18,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-19,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-20,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-21,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-22,Kabupaten Ngawi,Pasar Besar Ngawi,beras,14900
+2026-08-16,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-17,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-18,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-19,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-20,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-21,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-22,Kabupaten Ngawi,Pasar Paron,beras,14900
+2026-08-16,Kabupaten Pacitan,Pasar Arjosari,beras,14500
+2026-08-17,Kabupaten Pacitan,Pasar Arjosari,beras,14500
+2026-08-18,Kabupaten Pacitan,Pasar Arjosari,beras,14500
+2026-08-19,Kabupaten Pacitan,Pasar Arjosari,beras,14500
+2026-08-20,Kabupaten Pacitan,Pasar Arjosari,beras,14500
+2026-08-21,Kabupaten Pacitan,Pasar Arjosari,beras,14500
+2026-08-22,Kabupaten Pacitan,Pasar Arjosari,beras,0
+2026-08-16,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-17,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-18,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-19,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-20,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-21,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-22,Kabupaten Pacitan,Pasar Arjowinangun,beras,14500
+2026-08-16,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-17,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-18,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-19,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-20,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-21,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-22,Kabupaten Pacitan,Pasar Minulyo,beras,14500
+2026-08-16,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-17,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-18,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-19,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-20,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-21,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-22,Kabupaten Pamekasan,Pasar Kolpajung,beras,14800
+2026-08-16,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-17,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-18,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-19,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-20,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-21,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-22,Kabupaten Pamekasan,Pasar Waru,beras,14800
+2026-08-16,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-17,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-18,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-19,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-20,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-21,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-22,Kabupaten Pasuruan,Pasar Bangil,beras,14500
+2026-08-16,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-17,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-18,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-19,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-20,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-21,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-22,Kabupaten Pasuruan,Pasar Pandaan,beras,14500
+2026-08-16,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-17,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-18,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-19,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-20,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-21,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-22,Kabupaten Pasuruan,Pasar Sukorejo,beras,14000
+2026-08-16,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-17,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-18,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-19,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-20,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-21,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-22,Kabupaten Ponorogo,Pasar Legi,beras,13800
+2026-08-16,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-17,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-18,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-19,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-20,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-21,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-22,Kabupaten Ponorogo,Pasar Sumoroto,beras,16000
+2026-08-16,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-17,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-18,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-19,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-20,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-21,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-22,Kabupaten Probolinggo,Pasar Dringu,beras,14800
+2026-08-16,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-17,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-18,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-19,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-20,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-21,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-22,Kabupaten Probolinggo,Pasar Leces,beras,14800
+2026-08-16,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-17,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-18,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-19,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-20,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-21,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-22,Kabupaten Probolinggo,Pasar Semampir,beras,14800
+2026-08-16,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-17,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-18,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-19,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-20,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-21,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-22,Kabupaten Sampang,Pasar Rongtengah,beras,14900
+2026-08-16,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-17,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-18,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-19,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-20,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-21,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-22,Kabupaten Sampang,Pasar Srimangunan,beras,14900
+2026-08-16,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-17,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-18,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-19,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-20,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-21,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-22,Kabupaten Sidoarjo,Pasar Krian,beras,15800
+2026-08-16,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-17,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-18,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-19,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-20,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-21,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-22,Kabupaten Sidoarjo,Pasar Larangan,beras,15000
+2026-08-16,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-17,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-18,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-19,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-20,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-21,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-22,Kabupaten Situbondo,Pasar Ardirejo,beras,15500
+2026-08-16,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-17,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-18,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-19,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-20,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-21,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-22,Kabupaten Situbondo,Pasar Mimbaan Baru,beras,16200
+2026-08-16,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-17,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-18,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-19,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-20,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-21,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-22,Kabupaten Situbondo,Pasar Sumber Kolak,beras,16000
+2026-08-16,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-17,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-18,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-19,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-20,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-21,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-22,Kabupaten Sumenep,Pasar Anom Baru,beras,15400
+2026-08-16,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-17,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-18,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-19,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-20,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-21,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-22,Kabupaten Sumenep,Pasar Bangkal,beras,15500
+2026-08-16,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-17,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-18,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-19,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-20,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-21,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-22,Kabupaten Trenggalek,Pasar Basah,beras,14700
+2026-08-16,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-17,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-18,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-19,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-20,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-21,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-22,Kabupaten Trenggalek,Pasar Subuh,beras,13200
+2026-08-16,Kabupaten Tuban,Pasar Bangilan,beras,15000
+2026-08-17,Kabupaten Tuban,Pasar Bangilan,beras,15000
+2026-08-18,Kabupaten Tuban,Pasar Bangilan,beras,15000
+2026-08-19,Kabupaten Tuban,Pasar Bangilan,beras,15000
+2026-08-20,Kabupaten Tuban,Pasar Bangilan,beras,15000
+2026-08-21,Kabupaten Tuban,Pasar Bangilan,beras,15000
+2026-08-22,Kabupaten Tuban,Pasar Bangilan,beras,0
+2026-08-16,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-17,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-18,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-19,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-20,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-21,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-22,Kabupaten Tuban,Pasar Baru Tuban,beras,14500
+2026-08-16,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-17,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-18,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-19,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-20,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-21,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-22,Kabupaten Tuban,Pasar Jatirogo,beras,15000
+2026-08-16,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-17,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-18,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-19,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-20,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-21,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-22,Kabupaten Tulungagung,Pasar Bandung,beras,14900
+2026-08-16,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-17,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-18,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-19,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-20,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-21,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-22,Kabupaten Tulungagung,Pasar Ngemplak,beras,15000
+2026-08-16,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-17,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-18,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-19,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-20,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-21,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-22,Kabupaten Tulungagung,Pasar Ngunut,beras,14900
+2026-08-16,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-17,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-18,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-19,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-20,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-21,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-22,Kabupaten Tulungagung,Pasar Tamanan,beras,15000
+2026-08-16,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-17,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-18,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-19,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-20,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-21,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-22,Kota Batu,Pasar Besar Kota Batu,beras,14900
+2026-08-16,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-17,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-18,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-19,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-20,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-21,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-22,Kota Batu,Pasar Gentengan,beras,15500
+2026-08-16,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-17,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-18,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-19,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-20,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-21,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-22,Kota Batu,Pasar Pesanggrahan,beras,16000
+2026-08-16,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-17,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-18,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-19,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-20,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-21,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-22,Kota Batu,Pasar Songgoriti,beras,16000
+2026-08-16,Kota Blitar,Pasar Legi,beras,14900
+2026-08-17,Kota Blitar,Pasar Legi,beras,14900
+2026-08-18,Kota Blitar,Pasar Legi,beras,14900
+2026-08-19,Kota Blitar,Pasar Legi,beras,14900
+2026-08-20,Kota Blitar,Pasar Legi,beras,14900
+2026-08-21,Kota Blitar,Pasar Legi,beras,14900
+2026-08-22,Kota Blitar,Pasar Legi,beras,14900
+2026-08-16,Kota Blitar,Pasar Pon,beras,14900
+2026-08-17,Kota Blitar,Pasar Pon,beras,14900
+2026-08-18,Kota Blitar,Pasar Pon,beras,14900
+2026-08-19,Kota Blitar,Pasar Pon,beras,14900
+2026-08-20,Kota Blitar,Pasar Pon,beras,14900
+2026-08-21,Kota Blitar,Pasar Pon,beras,14900
+2026-08-22,Kota Blitar,Pasar Pon,beras,14900
+2026-08-16,Kota Madiun,Pasar Besar,beras,14500
+2026-08-17,Kota Madiun,Pasar Besar,beras,14500
+2026-08-18,Kota Madiun,Pasar Besar,beras,14500
+2026-08-19,Kota Madiun,Pasar Besar,beras,14500
+2026-08-20,Kota Madiun,Pasar Besar,beras,14500
+2026-08-21,Kota Madiun,Pasar Besar,beras,14500
+2026-08-22,Kota Madiun,Pasar Besar,beras,14500
+2026-08-16,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-17,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-18,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-19,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-20,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-21,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-22,Kota Madiun,Pasar Sleko,beras,15000
+2026-08-16,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-17,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-18,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-19,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-20,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-21,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-22,Kota Madiun,Pasar Srijaya,beras,15000
+2026-08-16,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-17,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-18,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-19,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-20,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-21,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-22,Kota Mojokerto,Pasar Prajuritkulon,beras,15000
+2026-08-16,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-17,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-18,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-19,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-20,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-21,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-22,Kota Mojokerto,Pasar Tanjung Anyar,beras,14800
+2026-08-16,Kota Pasuruan,Pasar Besar,beras,14700
+2026-08-17,Kota Pasuruan,Pasar Besar,beras,14700
+2026-08-18,Kota Pasuruan,Pasar Besar,beras,14700
+2026-08-19,Kota Pasuruan,Pasar Besar,beras,14700
+2026-08-20,Kota Pasuruan,Pasar Besar,beras,14700
+2026-08-21,Kota Pasuruan,Pasar Besar,beras,14700
+2026-08-22,Kota Pasuruan,Pasar Besar,beras,0
+2026-08-16,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-17,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-18,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-19,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-20,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-21,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-22,Kota Pasuruan,Pasar Kebonagung,beras,14700
+2026-08-16,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-17,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-18,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-19,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-20,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-21,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-22,Kota Probolinggo,Pasar Baru,beras,15000
+2026-08-16,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-17,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-18,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-19,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-20,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-21,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-22,Kota Probolinggo,Pasar Kronong,beras,16500
+2026-08-16,Kota Probolinggo,Pasar Wonoasih,beras,16200
+2026-08-17,Kota Probolinggo,Pasar Wonoasih,beras,16200
+2026-08-18,Kota Probolinggo,Pasar Wonoasih,beras,16200
+2026-08-19,Kota Probolinggo,Pasar Wonoasih,beras,16200
+2026-08-20,Kota Probolinggo,Pasar Wonoasih,beras,16200
+2026-08-21,Kota Probolinggo,Pasar Wonoasih,beras,16200
+2026-08-22,Kota Probolinggo,Pasar Wonoasih,beras,16200

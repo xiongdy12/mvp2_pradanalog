@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.streamlit/secrets.toml
+kredensial.json
+*.env
+
+Inflasi/
+Produksi Tanaman Pangan/
+data konsumsi/
+*.xlsx
+*.xls
+SISKAPERBAPO.html
+
+*_backup*.py
+*_sebelum_*
+*_contoh_*
+*_lama_*
+tambal_*.py
+intip_*.py
+periksa_*.py
+keterisian

@@ -1,0 +1,394 @@
+provinsi,komoditas,bulan,h,harga_prediksi,lo,hi,harga_kini,metode
+Aceh,Bawang Merah,2026-08,1,39000,32861,45235,39000,naive
+Aceh,Bawang Merah,2026-09,2,44075,39439,54426,39000,blend
+Aceh,Bawang Merah,2026-10,3,38000,35305,47341,39000,blend
+Aceh,Beras,2026-08,1,15050,14964,15208,15050,naive
+Aceh,Beras,2026-09,2,15050,14898,15338,15050,naive
+Aceh,Beras,2026-10,3,15050,14852,15419,15050,naive
+Aceh,Cabai Besar,2026-08,1,40000,29958,48483,40000,naive
+Aceh,Cabai Besar,2026-09,2,40000,24998,52728,40000,naive
+Aceh,Cabai Besar,2026-10,3,40000,18379,52726,40000,blend
+Bali,Bawang Merah,2026-08,1,40050,33745,46452,40050,naive
+Bali,Bawang Merah,2026-09,2,38875,34786,48005,40050,blend
+Bali,Bawang Merah,2026-10,3,35850,33308,44662,40050,blend
+Bali,Beras,2026-08,1,15550,15461,15713,15550,naive
+Bali,Beras,2026-09,2,15550,15393,15848,15550,naive
+Bali,Beras,2026-10,3,15550,15346,15931,15550,naive
+Bali,Cabai Besar,2026-08,1,31400,23517,38059,31400,naive
+Bali,Cabai Besar,2026-09,2,31400,19624,41391,31400,naive
+Bali,Cabai Besar,2026-10,3,39700,18242,52331,31400,blend
+Bali,Cabai Rawit,2026-08,1,41625,24860,52763,50000,blend
+Bali,Cabai Rawit,2026-09,2,39950,21106,52538,50000,blend
+Bali,Cabai Rawit,2026-10,3,41900,19103,56179,50000,blend
+Banten,Bawang Merah,2026-08,1,46150,38885,53528,46150,naive
+Banten,Bawang Merah,2026-09,2,43325,38768,53500,46150,blend
+Banten,Bawang Merah,2026-10,3,42950,39904,53508,46150,blend
+Banten,Beras,2026-08,1,16100,16007,16269,16100,naive
+Banten,Beras,2026-09,2,16100,15938,16409,16100,naive
+Banten,Beras,2026-10,3,16100,15889,16495,16100,naive
+Banten,Cabai Besar,2026-08,1,52150,39058,63209,52150,naive
+Banten,Cabai Besar,2026-09,2,52150,32591,68744,52150,naive
+Banten,Cabai Besar,2026-10,3,54700,25134,72103,52150,blend
+Banten,Cabai Rawit,2026-08,1,47075,28114,59671,53150,blend
+Banten,Cabai Rawit,2026-09,2,44950,23747,59114,53150,blend
+Banten,Cabai Rawit,2026-10,3,47525,21668,63721,53150,blend
+Bengkulu,Bawang Merah,2026-08,1,50000,42129,57993,50000,naive
+Bengkulu,Bawang Merah,2026-09,2,47200,42235,58285,50000,blend
+Bengkulu,Bawang Merah,2026-10,3,45250,42041,56373,50000,blend
+Bengkulu,Beras,2026-08,1,16100,16007,16269,16100,naive
+Bengkulu,Beras,2026-09,2,16100,15938,16409,16100,naive
+Bengkulu,Beras,2026-10,3,16100,15889,16495,16100,naive
+Bengkulu,Cabai Besar,2026-08,1,46250,34639,56058,46250,naive
+Bengkulu,Cabai Besar,2026-09,2,46250,28904,60966,46250,naive
+Bengkulu,Cabai Besar,2026-10,3,51700,23755,68149,46250,blend
+Bengkulu,Cabai Rawit,2026-08,1,47700,28488,60463,61250,blend
+Bengkulu,Cabai Rawit,2026-09,2,44175,23338,58095,61250,blend
+Bengkulu,Cabai Rawit,2026-10,3,46450,21178,62280,61250,blend
+DI Yogyakarta,Bawang Merah,2026-08,1,49000,41286,56833,49000,naive
+DI Yogyakarta,Bawang Merah,2026-09,2,45125,40378,55722,49000,blend
+DI Yogyakarta,Bawang Merah,2026-10,3,43875,40764,54660,49000,blend
+DI Yogyakarta,Beras,2026-08,1,15000,14914,15157,15000,naive
+DI Yogyakarta,Beras,2026-09,2,15000,14849,15288,15000,naive
+DI Yogyakarta,Beras,2026-10,3,15000,14803,15368,15000,naive
+DI Yogyakarta,Cabai Besar,2026-08,1,39000,29209,47271,39000,naive
+DI Yogyakarta,Cabai Besar,2026-09,2,39000,24373,51409,39000,naive
+DI Yogyakarta,Cabai Besar,2026-10,3,42000,19298,55363,39000,blend
+DI Yogyakarta,Cabai Rawit,2026-08,1,41500,24785,52604,46250,blend
+DI Yogyakarta,Cabai Rawit,2026-09,2,36250,19151,47672,46250,blend
+DI Yogyakarta,Cabai Rawit,2026-10,3,38750,17667,51956,46250,blend
+DKI Jakarta,Bawang Merah,2026-08,1,49800,41961,57761,49800,naive
+DKI Jakarta,Bawang Merah,2026-09,2,47725,42705,58933,49800,blend
+DKI Jakarta,Bawang Merah,2026-10,3,45000,41809,56062,49800,blend
+DKI Jakarta,Beras,2026-08,1,17000,16902,17178,17000,naive
+DKI Jakarta,Beras,2026-09,2,17000,16829,17326,17000,naive
+DKI Jakarta,Beras,2026-10,3,17000,16777,17417,17000,naive
+DKI Jakarta,Cabai Besar,2026-08,1,47600,35650,57694,47600,naive
+DKI Jakarta,Cabai Besar,2026-09,2,47600,29748,62746,47600,naive
+DKI Jakarta,Cabai Besar,2026-10,3,56800,26099,74871,47600,blend
+DKI Jakarta,Cabai Rawit,2026-08,1,54900,32788,69590,57900,blend
+DKI Jakarta,Cabai Rawit,2026-09,2,51075,26983,67169,57900,blend
+DKI Jakarta,Cabai Rawit,2026-10,3,54050,24643,72470,57900,blend
+Gorontalo,Bawang Merah,2026-08,1,48750,41076,56543,48750,naive
+Gorontalo,Bawang Merah,2026-09,2,50625,45300,62514,48750,blend
+Gorontalo,Bawang Merah,2026-10,3,44500,41344,55439,48750,blend
+Gorontalo,Beras,2026-08,1,15900,15809,16066,15900,naive
+Gorontalo,Beras,2026-09,2,15900,15740,16205,15900,naive
+Gorontalo,Beras,2026-10,3,15900,15691,16290,15900,naive
+Gorontalo,Cabai Rawit,2026-08,1,61675,36834,78178,68750,blend
+Gorontalo,Cabai Rawit,2026-09,2,57500,30378,75618,68750,blend
+Gorontalo,Cabai Rawit,2026-10,3,61475,28028,82426,68750,blend
+Jambi,Bawang Merah,2026-08,1,35650,30038,41349,35650,naive
+Jambi,Bawang Merah,2026-09,2,37900,33913,46801,35650,blend
+Jambi,Bawang Merah,2026-10,3,33900,31496,42233,35650,blend
+Jambi,Beras,2026-08,1,16650,16554,16824,16650,naive
+Jambi,Beras,2026-09,2,16650,16482,16969,16650,naive
+Jambi,Beras,2026-10,3,16650,16431,17058,16650,naive
+Jambi,Cabai Besar,2026-08,1,41250,30895,49998,41250,naive
+Jambi,Cabai Besar,2026-09,2,41250,25779,54375,41250,naive
+Jambi,Cabai Besar,2026-10,3,52325,24043,68973,41250,blend
+Jambi,Cabai Rawit,2026-08,1,55025,32862,69748,65400,blend
+Jambi,Cabai Rawit,2026-09,2,53275,28145,70062,65400,blend
+Jambi,Cabai Rawit,2026-10,3,55400,25258,74280,65400,blend
+Jawa Barat,Bawang Merah,2026-08,1,46050,38801,53412,46050,naive
+Jawa Barat,Bawang Merah,2026-09,2,43725,39126,53994,46050,blend
+Jawa Barat,Bawang Merah,2026-10,3,42350,39347,52760,46050,blend
+Jawa Barat,Beras,2026-08,1,15400,15311,15561,15400,naive
+Jawa Barat,Beras,2026-09,2,15400,15245,15695,15400,naive
+Jawa Barat,Beras,2026-10,3,15400,15198,15777,15400,naive
+Jawa Barat,Cabai Besar,2026-08,1,45650,34190,55331,45650,naive
+Jawa Barat,Cabai Besar,2026-09,2,45650,28529,60175,45650,naive
+Jawa Barat,Cabai Besar,2026-10,3,54775,25168,72202,45650,blend
+Jawa Barat,Cabai Rawit,2026-08,1,50550,30190,64076,52400,blend
+Jawa Barat,Cabai Rawit,2026-09,2,46425,24527,61054,52400,blend
+Jawa Barat,Cabai Rawit,2026-10,3,47975,21873,64325,52400,blend
+Jawa Tengah,Bawang Merah,2026-08,1,40750,34335,47264,40750,naive
+Jawa Tengah,Bawang Merah,2026-09,2,40725,36441,50289,40750,blend
+Jawa Tengah,Bawang Merah,2026-10,3,38625,35886,48120,40750,blend
+Jawa Tengah,Beras,2026-08,1,15800,15709,15965,15800,naive
+Jawa Tengah,Beras,2026-09,2,15800,15641,16103,15800,naive
+Jawa Tengah,Beras,2026-10,3,15800,15592,16187,15800,naive
+Jawa Tengah,Cabai Besar,2026-08,1,34750,26026,42119,34750,naive
+Jawa Tengah,Cabai Besar,2026-09,2,34750,21717,45807,34750,naive
+Jawa Tengah,Cabai Besar,2026-10,3,41075,18873,54143,34750,blend
+Jawa Tengah,Cabai Rawit,2026-08,1,38050,22724,48231,40550,blend
+Jawa Tengah,Cabai Rawit,2026-09,2,33925,17923,44615,40550,blend
+Jawa Tengah,Cabai Rawit,2026-10,3,37075,16903,49710,40550,blend
+Jawa Timur,Bawang Merah,2026-08,1,38950,32819,45177,38950,naive
+Jawa Timur,Bawang Merah,2026-09,2,39025,34920,48190,38950,blend
+Jawa Timur,Bawang Merah,2026-10,3,36625,34028,45628,38950,blend
+Jawa Timur,Beras,2026-08,1,14950,14864,15106,14950,naive
+Jawa Timur,Beras,2026-09,2,14950,14799,15237,14950,naive
+Jawa Timur,Beras,2026-10,3,14950,14754,15316,14950,naive
+Jawa Timur,Cabai Besar,2026-08,1,27800,20821,33695,27800,naive
+Jawa Timur,Cabai Besar,2026-09,2,27800,17374,36646,27800,naive
+Jawa Timur,Cabai Besar,2026-10,3,36575,16806,48212,27800,blend
+Jawa Timur,Cabai Rawit,2026-08,1,36250,21649,45950,39650,blend
+Jawa Timur,Cabai Rawit,2026-09,2,31225,16496,41064,39650,blend
+Jawa Timur,Cabai Rawit,2026-10,3,35100,16003,47062,39650,blend
+Kalimantan Barat,Bawang Merah,2026-08,1,51950,43772,60255,51950,naive
+Kalimantan Barat,Bawang Merah,2026-09,2,52175,46687,64428,51950,blend
+Kalimantan Barat,Bawang Merah,2026-10,3,45300,42088,56435,51950,blend
+Kalimantan Barat,Beras,2026-08,1,17300,17201,17481,17300,naive
+Kalimantan Barat,Beras,2026-09,2,17300,17126,17632,17300,naive
+Kalimantan Barat,Beras,2026-10,3,17300,17073,17724,17300,naive
+Kalimantan Barat,Cabai Besar,2026-08,1,50500,37822,61209,50500,naive
+Kalimantan Barat,Cabai Besar,2026-09,2,50500,31560,66569,50500,naive
+Kalimantan Barat,Cabai Besar,2026-10,3,47700,21917,62876,50500,blend
+Kalimantan Barat,Cabai Rawit,2026-08,1,65525,39133,83058,72200,blend
+Kalimantan Barat,Cabai Rawit,2026-09,2,61750,32623,81208,72200,blend
+Kalimantan Barat,Cabai Rawit,2026-10,3,62175,28347,83364,72200,blend
+Kalimantan Selatan,Bawang Merah,2026-08,1,43250,36442,50164,43250,naive
+Kalimantan Selatan,Bawang Merah,2026-09,2,45375,40602,56031,43250,blend
+Kalimantan Selatan,Bawang Merah,2026-10,3,39500,36699,49210,43250,blend
+Kalimantan Selatan,Beras,2026-08,1,19000,18891,19199,19000,naive
+Kalimantan Selatan,Beras,2026-09,2,19000,18809,19364,19000,naive
+Kalimantan Selatan,Beras,2026-10,3,19000,18750,19466,19000,naive
+Kalimantan Selatan,Cabai Besar,2026-08,1,56650,42428,68664,56650,naive
+Kalimantan Selatan,Cabai Besar,2026-09,2,56650,35404,74675,56650,naive
+Kalimantan Selatan,Cabai Besar,2026-10,3,48950,22492,64524,56650,blend
+Kalimantan Selatan,Cabai Rawit,2026-08,1,60625,36207,76847,62900,blend
+Kalimantan Selatan,Cabai Rawit,2026-09,2,53125,28066,69865,62900,blend
+Kalimantan Selatan,Cabai Rawit,2026-10,3,53650,24460,71934,62900,blend
+Kalimantan Tengah,Bawang Merah,2026-08,1,46000,38759,53354,46000,naive
+Kalimantan Tengah,Bawang Merah,2026-09,2,47950,42906,59211,46000,blend
+Kalimantan Tengah,Bawang Merah,2026-10,3,42325,39324,52729,46000,blend
+Kalimantan Tengah,Beras,2026-08,1,19250,19139,19452,19250,naive
+Kalimantan Tengah,Beras,2026-09,2,19250,19056,19619,19250,naive
+Kalimantan Tengah,Beras,2026-10,3,19250,18997,19722,19250,naive
+Kalimantan Tengah,Cabai Besar,2026-08,1,83750,62725,101511,83750,naive
+Kalimantan Tengah,Cabai Besar,2026-09,2,83750,52340,110398,83750,naive
+Kalimantan Tengah,Cabai Besar,2026-10,3,78750,36184,103805,83750,blend
+Kalimantan Tengah,Cabai Rawit,2026-08,1,80950,48345,102610,85650,blend
+Kalimantan Tengah,Cabai Rawit,2026-09,2,71900,37985,94556,85650,blend
+Kalimantan Tengah,Cabai Rawit,2026-10,3,76275,34775,102269,85650,blend
+Kalimantan Timur,Bawang Merah,2026-08,1,50250,42340,58283,50250,naive
+Kalimantan Timur,Bawang Merah,2026-09,2,50550,45233,62421,50250,blend
+Kalimantan Timur,Bawang Merah,2026-10,3,45700,42459,56934,50250,blend
+Kalimantan Timur,Beras,2026-08,1,17150,17051,17330,17150,naive
+Kalimantan Timur,Beras,2026-09,2,17150,16977,17479,17150,naive
+Kalimantan Timur,Beras,2026-10,3,17150,16925,17570,17150,naive
+Kalimantan Timur,Cabai Besar,2026-08,1,68750,51491,83330,68750,naive
+Kalimantan Timur,Cabai Besar,2026-09,2,68750,42966,90626,68750,naive
+Kalimantan Timur,Cabai Besar,2026-10,3,59800,27477,78826,68750,blend
+Kalimantan Timur,Cabai Rawit,2026-08,1,48875,29189,61953,43750,blend
+Kalimantan Timur,Cabai Rawit,2026-09,2,39175,20696,51519,43750,blend
+Kalimantan Timur,Cabai Rawit,2026-10,3,37675,17177,50515,43750,blend
+Kalimantan Utara,Bawang Merah,2026-08,1,57100,48111,66228,57100,naive
+Kalimantan Utara,Bawang Merah,2026-09,2,57500,51452,71004,57100,blend
+Kalimantan Utara,Bawang Merah,2026-10,3,52375,48661,65249,57100,blend
+Kalimantan Utara,Beras,2026-08,1,17150,17051,17330,17150,naive
+Kalimantan Utara,Beras,2026-09,2,17150,16977,17479,17150,naive
+Kalimantan Utara,Beras,2026-10,3,17150,16925,17570,17150,naive
+Kalimantan Utara,Cabai Besar,2026-08,1,73350,54936,88905,73350,naive
+Kalimantan Utara,Cabai Besar,2026-09,2,73350,45840,96689,73350,naive
+Kalimantan Utara,Cabai Besar,2026-10,3,67625,31073,89140,73350,blend
+Kalimantan Utara,Cabai Rawit,2026-08,1,86575,51705,109740,90000,blend
+Kalimantan Utara,Cabai Rawit,2026-09,2,79075,41776,103992,90000,blend
+Kalimantan Utara,Cabai Rawit,2026-10,3,74700,34057,100158,90000,blend
+Kepulauan Bangka Belitung,Bawang Merah,2026-08,1,53000,44657,61473,53000,naive
+Kepulauan Bangka Belitung,Bawang Merah,2026-09,2,50575,45255,62452,53000,blend
+Kepulauan Bangka Belitung,Bawang Merah,2026-10,3,48125,44712,59955,53000,blend
+Kepulauan Bangka Belitung,Beras,2026-08,1,16200,16107,16370,16200,naive
+Kepulauan Bangka Belitung,Beras,2026-09,2,16200,16037,16511,16200,naive
+Kepulauan Bangka Belitung,Beras,2026-10,3,16200,15987,16597,16200,naive
+Kepulauan Bangka Belitung,Cabai Rawit,2026-08,1,61825,36923,78368,61150,blend
+Kepulauan Bangka Belitung,Cabai Rawit,2026-09,2,57825,30549,76046,61150,blend
+Kepulauan Bangka Belitung,Cabai Rawit,2026-10,3,62025,28279,83163,61150,blend
+Kepulauan Riau,Bawang Merah,2026-08,1,38700,32608,44887,38700,naive
+Kepulauan Riau,Bawang Merah,2026-09,2,37900,33913,46801,38700,blend
+Kepulauan Riau,Bawang Merah,2026-10,3,35300,32797,43977,38700,blend
+Kepulauan Riau,Beras,2026-08,1,15600,15510,15763,15600,naive
+Kepulauan Riau,Beras,2026-09,2,15600,15443,15899,15600,naive
+Kepulauan Riau,Beras,2026-10,3,15600,15395,15982,15600,naive
+Lampung,Bawang Merah,2026-08,1,42750,36020,49584,42750,naive
+Lampung,Bawang Merah,2026-09,2,39575,35412,48869,42750,blend
+Lampung,Bawang Merah,2026-10,3,38875,36118,48431,42750,blend
+Lampung,Beras,2026-08,1,15450,15361,15612,15450,naive
+Lampung,Beras,2026-09,2,15450,15294,15746,15450,naive
+Lampung,Beras,2026-10,3,15450,15247,15829,15450,naive
+Lampung,Cabai Besar,2026-08,1,54750,41005,66361,54750,naive
+Lampung,Cabai Besar,2026-09,2,54750,34216,72171,54750,naive
+Lampung,Cabai Besar,2026-10,3,55250,25387,72828,54750,blend
+Lampung,Cabai Rawit,2026-08,1,41825,24979,53016,46650,blend
+Lampung,Cabai Rawit,2026-09,2,38825,20511,51059,46650,blend
+Lampung,Cabai Rawit,2026-10,3,41450,18898,55576,46650,blend
+Maluku,Bawang Merah,2026-08,1,60650,51103,70346,60650,naive
+Maluku,Bawang Merah,2026-09,2,61575,55098,76036,60650,blend
+Maluku,Bawang Merah,2026-10,3,54700,50821,68146,60650,blend
+Maluku,Beras,2026-08,1,17600,17499,17784,17600,naive
+Maluku,Beras,2026-09,2,17600,17423,17937,17600,naive
+Maluku,Beras,2026-10,3,17600,17369,18031,17600,naive
+Maluku,Cabai Besar,2026-08,1,45000,33703,54543,45000,naive
+Maluku,Cabai Besar,2026-09,2,45000,28123,59319,45000,naive
+Maluku,Cabai Besar,2026-10,3,42500,19528,56022,45000,blend
+Maluku,Cabai Rawit,2026-08,1,101875,60842,129134,91250,blend
+Maluku,Cabai Rawit,2026-09,2,85625,45236,112606,91250,blend
+Maluku,Cabai Rawit,2026-10,3,81875,37329,109778,91250,blend
+Maluku Utara,Bawang Merah,2026-08,1,70000,58981,81190,70000,naive
+Maluku Utara,Bawang Merah,2026-09,2,68750,61518,84896,70000,blend
+Maluku Utara,Bawang Merah,2026-10,3,68125,63294,84871,70000,blend
+Maluku Utara,Beras,2026-08,1,18000,17897,18188,18000,naive
+Maluku Utara,Beras,2026-09,2,18000,17819,18345,18000,naive
+Maluku Utara,Beras,2026-10,3,18000,17764,18441,18000,naive
+Maluku Utara,Cabai Besar,2026-08,1,60000,44938,72724,60000,naive
+Maluku Utara,Cabai Besar,2026-09,2,60000,37497,79091,60000,naive
+Maluku Utara,Cabai Besar,2026-10,3,52500,24123,69203,60000,blend
+Maluku Utara,Cabai Rawit,2026-08,1,125000,74653,158447,100000,blend
+Maluku Utara,Cabai Rawit,2026-09,2,110000,58114,144661,100000,blend
+Maluku Utara,Cabai Rawit,2026-10,3,100000,45592,134080,100000,blend
+Nasional,Bawang Merah,2026-08,1,48300,40697,56021,48300,naive
+Nasional,Bawang Merah,2026-09,2,48575,43466,59983,48300,blend
+Nasional,Bawang Merah,2026-10,3,44375,41228,55283,48300,blend
+Nasional,Beras,2026-08,1,16350,16256,16521,16350,naive
+Nasional,Beras,2026-09,2,16350,16185,16663,16350,naive
+Nasional,Beras,2026-10,3,16350,16135,16751,16350,naive
+Nasional,Cabai Besar,2026-08,1,51800,38796,62785,51800,naive
+Nasional,Cabai Besar,2026-09,2,51800,32373,68282,51800,naive
+Nasional,Cabai Besar,2026-10,3,52025,23905,68577,51800,blend
+Nasional,Cabai Rawit,2026-08,1,61950,36998,78526,63900,blend
+Nasional,Cabai Rawit,2026-09,2,56200,29691,73909,63900,blend
+Nasional,Cabai Rawit,2026-10,3,56750,25874,76090,63900,blend
+Nusa Tenggara Barat,Bawang Merah,2026-08,1,37000,31175,42915,37000,naive
+Nusa Tenggara Barat,Bawang Merah,2026-09,2,34025,30446,42016,37000,blend
+Nusa Tenggara Barat,Bawang Merah,2026-10,3,31975,29708,39835,37000,blend
+Nusa Tenggara Barat,Beras,2026-08,1,13650,13572,13793,13650,naive
+Nusa Tenggara Barat,Beras,2026-09,2,13650,13512,13912,13650,naive
+Nusa Tenggara Barat,Beras,2026-10,3,13650,13471,13985,13650,naive
+Nusa Tenggara Barat,Cabai Besar,2026-08,1,28250,21158,34241,28250,naive
+Nusa Tenggara Barat,Cabai Besar,2026-09,2,28250,17655,37239,28250,naive
+Nusa Tenggara Barat,Cabai Besar,2026-10,3,35375,16254,46630,28250,blend
+Nusa Tenggara Barat,Cabai Rawit,2026-08,1,37850,22605,47978,42950,blend
+Nusa Tenggara Barat,Cabai Rawit,2026-09,2,36125,19085,47508,42950,blend
+Nusa Tenggara Barat,Cabai Rawit,2026-10,3,33950,15479,45520,42950,blend
+Nusa Tenggara Timur,Bawang Merah,2026-08,1,44150,37200,51208,44150,naive
+Nusa Tenggara Timur,Bawang Merah,2026-09,2,42900,38387,52975,44150,blend
+Nusa Tenggara Timur,Bawang Merah,2026-10,3,40000,37164,49832,44150,blend
+Nusa Tenggara Timur,Beras,2026-08,1,14850,14765,15005,14850,naive
+Nusa Tenggara Timur,Beras,2026-09,2,14850,14700,15135,14850,naive
+Nusa Tenggara Timur,Beras,2026-10,3,14850,14655,15214,14850,naive
+Nusa Tenggara Timur,Cabai Besar,2026-08,1,62900,47109,76239,62900,naive
+Nusa Tenggara Timur,Cabai Besar,2026-09,2,62900,39310,82914,62900,naive
+Nusa Tenggara Timur,Cabai Besar,2026-10,3,55400,25455,73026,62900,blend
+Nusa Tenggara Timur,Cabai Rawit,2026-08,1,77075,46031,97698,75000,blend
+Nusa Tenggara Timur,Cabai Rawit,2026-09,2,71050,37536,93438,75000,blend
+Nusa Tenggara Timur,Cabai Rawit,2026-10,3,69375,31630,93018,75000,blend
+Papua,Bawang Merah,2026-08,1,80750,68038,93659,80750,naive
+Papua,Bawang Merah,2026-09,2,79325,70981,97954,80750,blend
+Papua,Bawang Merah,2026-10,3,72325,67196,90103,80750,blend
+Papua,Beras,2026-08,1,19050,18941,19249,19050,naive
+Papua,Beras,2026-09,2,19050,18858,19415,19050,naive
+Papua,Beras,2026-10,3,19050,18800,19517,19050,naive
+Papua,Cabai Besar,2026-08,1,93900,70327,113813,93900,naive
+Papua,Cabai Besar,2026-09,2,93900,58683,123778,93900,naive
+Papua,Cabai Besar,2026-10,3,82900,38091,109275,93900,blend
+Papua,Cabai Rawit,2026-08,1,110700,66113,140321,105150,blend
+Papua,Cabai Rawit,2026-09,2,102025,53900,134173,105150,blend
+Papua,Cabai Rawit,2026-10,3,103650,47256,138974,105150,blend
+Papua Barat,Bawang Merah,2026-08,1,68750,57927,79740,68750,naive
+Papua Barat,Bawang Merah,2026-09,2,70000,62637,86439,68750,blend
+Papua Barat,Bawang Merah,2026-10,3,60625,56326,75527,68750,blend
+Papua Barat,Beras,2026-08,1,17950,17847,18138,17950,naive
+Papua Barat,Beras,2026-09,2,17950,17769,18294,17950,naive
+Papua Barat,Beras,2026-10,3,17950,17714,18390,17950,naive
+Papua Barat,Cabai Besar,2026-08,1,65000,48682,78784,65000,naive
+Papua Barat,Cabai Besar,2026-09,2,65000,40622,85682,65000,naive
+Papua Barat,Cabai Besar,2026-10,3,65625,30154,86504,65000,blend
+Papua Barat,Cabai Rawit,2026-08,1,100000,59723,126758,107500,blend
+Papua Barat,Cabai Rawit,2026-09,2,91250,48208,120003,107500,blend
+Papua Barat,Cabai Rawit,2026-10,3,91250,41603,122348,107500,blend
+Riau,Bawang Merah,2026-08,1,35850,30207,41581,35850,naive
+Riau,Bawang Merah,2026-09,2,40700,36419,50258,35850,blend
+Riau,Bawang Merah,2026-10,3,36125,33563,45005,35850,blend
+Riau,Beras,2026-08,1,16650,16554,16824,16650,naive
+Riau,Beras,2026-09,2,16650,16482,16969,16650,naive
+Riau,Beras,2026-10,3,16650,16431,17058,16650,naive
+Riau,Cabai Besar,2026-08,1,48350,36212,58603,48350,naive
+Riau,Cabai Besar,2026-09,2,48350,30217,63735,48350,naive
+Riau,Cabai Besar,2026-10,3,63375,29120,83538,48350,blend
+Riau,Cabai Rawit,2026-08,1,54600,32609,69210,58550,blend
+Riau,Cabai Rawit,2026-09,2,52825,27908,69470,58550,blend
+Riau,Cabai Rawit,2026-10,3,53200,24255,71330,58550,blend
+Sulawesi Barat,Bawang Merah,2026-08,1,49150,41413,57007,49150,naive
+Sulawesi Barat,Bawang Merah,2026-09,2,52275,46776,64552,49150,blend
+Sulawesi Barat,Bawang Merah,2026-10,3,46025,42761,57339,49150,blend
+Sulawesi Barat,Beras,2026-08,1,14650,14566,14803,14650,naive
+Sulawesi Barat,Beras,2026-09,2,14650,14502,14931,14650,naive
+Sulawesi Barat,Beras,2026-10,3,14650,14458,15009,14650,naive
+Sulawesi Barat,Cabai Besar,2026-08,1,52900,39620,64118,52900,naive
+Sulawesi Barat,Cabai Besar,2026-09,2,52900,33060,69732,52900,naive
+Sulawesi Barat,Cabai Besar,2026-10,3,44775,20573,59020,52900,blend
+Sulawesi Barat,Cabai Rawit,2026-08,1,44375,26502,56249,48350,blend
+Sulawesi Barat,Cabai Rawit,2026-09,2,41925,22149,55136,48350,blend
+Sulawesi Barat,Cabai Rawit,2026-10,3,42500,19377,56984,48350,blend
+Sulawesi Selatan,Bawang Merah,2026-08,1,42250,35599,49004,42250,naive
+Sulawesi Selatan,Bawang Merah,2026-09,2,43625,39036,53870,42250,blend
+Sulawesi Selatan,Bawang Merah,2026-10,3,40375,37512,50300,42250,blend
+Sulawesi Selatan,Beras,2026-08,1,14750,14665,14904,14750,naive
+Sulawesi Selatan,Beras,2026-09,2,14750,14601,15033,14750,naive
+Sulawesi Selatan,Beras,2026-10,3,14750,14556,15111,14750,naive
+Sulawesi Selatan,Cabai Besar,2026-08,1,46650,34939,56543,46650,naive
+Sulawesi Selatan,Cabai Besar,2026-09,2,46650,29154,61494,46650,naive
+Sulawesi Selatan,Cabai Besar,2026-10,3,40900,18793,53913,46650,blend
+Sulawesi Selatan,Cabai Rawit,2026-08,1,41375,24710,52446,37250,blend
+Sulawesi Selatan,Cabai Rawit,2026-09,2,31675,16734,41656,37250,blend
+Sulawesi Selatan,Cabai Rawit,2026-10,3,32675,14897,43811,37250,blend
+Sulawesi Tengah,Bawang Merah,2026-08,1,54400,45836,63096,54400,naive
+Sulawesi Tengah,Bawang Merah,2026-09,2,56575,50624,69861,54400,blend
+Sulawesi Tengah,Bawang Merah,2026-10,3,48950,45479,60983,54400,blend
+Sulawesi Tengah,Beras,2026-08,1,15950,15858,16117,15950,naive
+Sulawesi Tengah,Beras,2026-09,2,15950,15789,16256,15950,naive
+Sulawesi Tengah,Beras,2026-10,3,15950,15740,16341,15950,naive
+Sulawesi Tengah,Cabai Besar,2026-08,1,42150,31569,51089,42150,naive
+Sulawesi Tengah,Cabai Besar,2026-09,2,42150,26342,55562,42150,naive
+Sulawesi Tengah,Cabai Besar,2026-10,3,37050,17024,48838,42150,blend
+Sulawesi Tengah,Cabai Rawit,2026-08,1,64700,38641,82012,72500,blend
+Sulawesi Tengah,Cabai Rawit,2026-09,2,59075,31210,77690,72500,blend
+Sulawesi Tengah,Cabai Rawit,2026-10,3,60325,27503,80884,72500,blend
+Sulawesi Tenggara,Bawang Merah,2026-08,1,58750,49502,68142,58750,naive
+Sulawesi Tenggara,Bawang Merah,2026-09,2,57825,51743,71405,58750,blend
+Sulawesi Tenggara,Bawang Merah,2026-10,3,53000,49242,66028,58750,blend
+Sulawesi Tenggara,Beras,2026-08,1,15900,15809,16066,15900,naive
+Sulawesi Tenggara,Beras,2026-09,2,15900,15740,16205,15900,naive
+Sulawesi Tenggara,Beras,2026-10,3,15900,15691,16290,15900,naive
+Sulawesi Tenggara,Cabai Besar,2026-08,1,68750,51491,83330,68750,naive
+Sulawesi Tenggara,Cabai Besar,2026-09,2,68750,42966,90626,68750,naive
+Sulawesi Tenggara,Cabai Besar,2026-10,3,56575,25995,74575,68750,blend
+Sulawesi Tenggara,Cabai Rawit,2026-08,1,81875,48898,103783,65000,blend
+Sulawesi Tenggara,Cabai Rawit,2026-09,2,64000,33812,84167,65000,blend
+Sulawesi Tenggara,Cabai Rawit,2026-10,3,59375,27070,79610,65000,blend
+Sulawesi Utara,Bawang Merah,2026-08,1,54750,46131,63502,54750,naive
+Sulawesi Utara,Bawang Merah,2026-09,2,56375,50445,69614,54750,blend
+Sulawesi Utara,Bawang Merah,2026-10,3,49950,46408,62228,54750,blend
+Sulawesi Utara,Beras,2026-08,1,16250,16157,16420,16250,naive
+Sulawesi Utara,Beras,2026-09,2,16250,16086,16562,16250,naive
+Sulawesi Utara,Beras,2026-10,3,16250,16037,16648,16250,naive
+Sulawesi Utara,Cabai Rawit,2026-08,1,64450,38491,81695,78150,blend
+Sulawesi Utara,Cabai Rawit,2026-09,2,62325,32927,81964,78150,blend
+Sulawesi Utara,Cabai Rawit,2026-10,3,66900,30501,89699,78150,blend
+Sumatera Barat,Bawang Merah,2026-08,1,37900,31934,43959,37900,naive
+Sumatera Barat,Bawang Merah,2026-09,2,42325,37873,52265,37900,blend
+Sumatera Barat,Bawang Merah,2026-10,3,34950,32472,43541,37900,blend
+Sumatera Barat,Beras,2026-08,1,18400,18294,18593,18400,naive
+Sumatera Barat,Beras,2026-09,2,18400,18215,18753,18400,naive
+Sumatera Barat,Beras,2026-10,3,18400,18158,18851,18400,naive
+Sumatera Selatan,Bawang Merah,2026-08,1,42250,35599,49004,42250,naive
+Sumatera Selatan,Bawang Merah,2026-09,2,42450,37985,52419,42250,blend
+Sumatera Selatan,Bawang Merah,2026-10,3,39625,36815,49365,42250,blend
+Sumatera Selatan,Beras,2026-08,1,16000,15908,16167,16000,naive
+Sumatera Selatan,Beras,2026-09,2,16000,15839,16307,16000,naive
+Sumatera Selatan,Beras,2026-10,3,16000,15790,16392,16000,naive
+Sumatera Selatan,Cabai Besar,2026-08,1,42900,32130,51998,42900,naive
+Sumatera Selatan,Cabai Besar,2026-09,2,42900,26811,56550,42900,naive
+Sumatera Selatan,Cabai Besar,2026-10,3,51700,23755,68149,42900,blend
+Sumatera Selatan,Cabai Rawit,2026-08,1,55275,33012,70065,57400,blend
+Sumatera Selatan,Cabai Rawit,2026-09,2,48575,25662,63881,57400,blend
+Sumatera Selatan,Cabai Rawit,2026-10,3,51650,23548,69252,57400,blend
+Sumatera Utara,Bawang Merah,2026-08,1,39050,32903,45293,39050,naive
+Sumatera Utara,Bawang Merah,2026-09,2,43425,38857,53623,39050,blend
+Sumatera Utara,Bawang Merah,2026-10,3,37625,34957,46874,39050,blend
+Sumatera Utara,Beras,2026-08,1,15150,15063,15309,15150,naive
+Sumatera Utara,Beras,2026-09,2,15150,14997,15440,15150,naive
+Sumatera Utara,Beras,2026-10,3,15150,14951,15521,15150,naive
+Sumatera Utara,Cabai Rawit,2026-08,1,40525,24203,51368,43150,blend
+Sumatera Utara,Cabai Rawit,2026-09,2,44525,23523,58555,43150,blend
+Sumatera Utara,Cabai Rawit,2026-10,3,38700,17644,51889,43150,blend
