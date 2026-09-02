@@ -446,13 +446,33 @@ def run_pipeline(prod_bytes, kons_bytes, ihk_bytes):
     agg = cur.groupby("provinsi").agg(
         sd_mean=("surplus_defisit_ton", "mean"), prod=("produksi_ton", "sum"),
         kons=("konsumsi_total_ton", "sum"), ihk=("ihk_makanan_avg", "mean")).reset_index()
-    Xc = MinMaxScaler().fit_transform(agg[["sd_mean", "prod", "kons", "ihk"]].fillna(0))
-    km = KMeans(n_clusters=4, random_state=42, n_init=10)
-    agg["cl"] = km.fit_predict(Xc)
-    order = agg.groupby("cl")["sd_mean"].mean().sort_values()
-    lab = {order.index[0]: "Defisit Kritis", order.index[1]: "Defisit Moderat",
-           order.index[2]: "Surplus Moderat", order.index[3]: "Surplus Tinggi"}
-    agg["cluster"] = agg["cl"].map(lab)
+    # Tanda neraca menentukan surplus atau defisit; besarannya menentukan
+    # tingkatan. Nama klaster adalah pernyataan tentang neraca, sehingga tidak
+    # boleh berlawanan dengan tandanya sendiri. Menyertakan produksi, konsumsi,
+    # dan IHK membuat provinsi surplus dapat bernama Defisit Kritis; membatasi
+    # pada neraca saja pun belum cukup, karena sebarannya sangat miring
+    # sehingga sebagian besar provinsi jatuh ke kelompok terendah apa pun
+    # tandanya. Pembagian tingkatan tetap ditentukan data melalui K-Means dua
+    # klaster di dalam masing-masing sisi, bukan ambang yang ditetapkan sendiri.
+    def _label_neraca(nilai):
+        lab = pd.Series(index=nilai.index, dtype=object)
+        for pilih, (rendah, tinggi, bawaan) in (
+                (nilai < 0, ("Defisit Kritis", "Defisit Moderat", "Defisit Moderat")),
+                (nilai >= 0, ("Surplus Moderat", "Surplus Tinggi", "Surplus Moderat"))):
+            sub = nilai[pilih]
+            if not len(sub):
+                continue
+            if len(sub) < 2 or sub.nunique() < 2:
+                lab.loc[sub.index] = bawaan
+                continue
+            k2 = KMeans(n_clusters=2, random_state=42, n_init=10)
+            cl2 = k2.fit_predict(MinMaxScaler().fit_transform(sub.to_frame()))
+            rata = pd.Series(sub.values).groupby(cl2).mean().sort_values()
+            peta = {rata.index[0]: rendah, rata.index[1]: tinggi}
+            lab.loc[sub.index] = [peta[c] for c in cl2]
+        return lab
+
+    agg["cluster"] = _label_neraca(agg["sd_mean"].fillna(0))
     cluster_map = dict(zip(agg["provinsi"], agg["cluster"]))
 
     KEY = {"Beras": "beras", "Jagung": "jagung", "Bawang Merah": "bawang",
@@ -956,8 +976,10 @@ def build_deck(active_prov, komoditas_label, rute_kom, zoom):
                 stroked=True, get_line_color=[255, 255, 255], line_width_min_pixels=1,
                 pickable=False))
     view = pdk.ViewState(latitude=-2.5, longitude=118, zoom=zoom, pitch=0)
-    tooltip = {"html": "<b>{provinsi}</b><br/>Cluster: {cluster}<br/>"
-                       + komoditas_label + ": {nilai} ribu ton<br/><i>klik untuk detail</i>",
+    tooltip = {"html": "<b>{provinsi}</b><br/>"
+                       + komoditas_label + ": {nilai_teks}<br/>"
+                       "Klaster nasional (semua komoditas): {cluster}<br/>"
+                       "<i>klik untuk detail</i>",
                "style": {"backgroundColor": "#15181d", "color": "white",
                          "border": "1px solid #444", "borderRadius": "6px"}}
     return pdk.Deck(layers=layers, initial_view_state=view,
@@ -1023,10 +1045,18 @@ with tab_peta:
         p = ft["properties"]["provinsi"]
         if p in profil.index:
             v = int(profil.loc[p, kkey])
-            ft["properties"].update({"cluster": profil.loc[p, "cluster"], "nilai": v,
-                                     "fill_color": warna_nilai(v, vmax_kom)})
+            # Tooltip menyatakan status komoditas terpilih, bukan klaster
+            # lintas komoditas saja. Teksnya disiapkan di sini karena tooltip
+            # pydeck hanya menyulih properti apa adanya, tidak dapat berhitung.
+            status_kom = "Surplus" if v >= 0 else "Defisit"
+            ft["properties"].update({
+                "cluster": profil.loc[p, "cluster"], "nilai": v,
+                "nilai_teks": f"{status_kom} {abs(v):,} ribu ton",
+                "fill_color": warna_nilai(v, vmax_kom)})
         else:
-            ft["properties"].update({"cluster": "-", "nilai": 0, "fill_color": [80, 84, 92, 120]})
+            ft["properties"].update({"cluster": "-", "nilai": 0,
+                                     "nilai_teks": "data tidak tersedia",
+                                     "fill_color": [80, 84, 92, 120]})
     rute_kom = routes[routes["komoditas"] == komoditas_label]
 
     if active is None:
