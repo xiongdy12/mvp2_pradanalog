@@ -967,12 +967,17 @@ def build_deck(active_prov, komoditas_label, rute_kom, zoom):
 def rekomendasi(r, masuk, keluar, kom_label):
     nilai = int(r[LABEL2KEY[kom_label]])
     if nilai < 0:  # defisit pada komoditas terpilih
+        # Prioritas berasal dari klaster K-Means lintas seluruh komoditas,
+        # sedangkan angka defisit di kalimat yang sama khusus komoditas
+        # terpilih. Cakupannya disebut agar keduanya tidak terbaca sebagai
+        # satu ukuran. Sinyal per komoditas sudah tersedia pada metrik
+        # Peringkat di panel yang sama.
         prio = "TINGGI" if r["cluster"] == "Defisit Kritis" else "SEDANG"
         if len(masuk):
             pemasok = ", ".join(masuk.sort_values("volume_ton", ascending=False)["asal"].head(2))
-            return (f"**Peran: PENERIMA {kom_label} · Prioritas {prio}.** Defisit {abs(nilai):,} rb ton. "
+            return (f"**Peran: PENERIMA {kom_label} · Prioritas nasional {prio}.** Defisit {abs(nilai):,} rb ton. "
                     f"Dipasok dari **{pemasok}**. Waspada menjelang Ramadan/Lebaran & paceklik.")
-        return (f"**Peran: PENERIMA {kom_label} · Prioritas {prio}.** Defisit {abs(nilai):,} rb ton — "
+        return (f"**Peran: PENERIMA {kom_label} · Prioritas nasional {prio}.** Defisit {abs(nilai):,} rb ton — "
                 f"belum ada rute pada solusi ini (pemenuhan 80% dialokasikan ke wilayah prioritas lain).")
     if nilai > 0:  # surplus pada komoditas terpilih
         if len(keluar):
@@ -1117,11 +1122,24 @@ with tab_peta:
         with col_prov:
             with st.container(border=True):
                 r = profil.loc[active]
-                w = CLUSTER_WARNA[r["cluster"]]
+                # Lencana mengikuti komoditas terpilih, bukan klaster lintas
+                # komoditas. Klaster K-Means dihitung atas seluruh komoditas,
+                # sedangkan angka di panel ini dan warna pada peta keduanya per
+                # komoditas. Menyandingkannya tanpa keterangan cakupan membuat
+                # provinsi seperti Lampung tampak bertentangan: surplus secara
+                # agregat, namun defisit untuk bawang merah.
+                nilai_kom = int(r[kkey])
+                status_kom = "Surplus" if nilai_kom >= 0 else "Defisit"
+                w = CLUSTER_WARNA["Surplus Tinggi" if nilai_kom >= 0
+                                  else "Defisit Kritis"]
                 badge = (f"background:rgb({w[0]},{w[1]},{w[2]});color:white;padding:2px 10px;"
                          f"border-radius:10px;font-weight:600;font-size:0.78em;")
-                st.markdown(f"##### {active} &nbsp;<span style='{badge}'>{r['cluster']}</span>",
-                            unsafe_allow_html=True)
+                st.markdown(
+                    f"##### {active} &nbsp;<span style='{badge}'>"
+                    f"{status_kom} &middot; {komoditas_label}</span>",
+                    unsafe_allow_html=True)
+                st.caption(f"Klaster nasional seluruh komoditas: {r['cluster']} \u00b7 "
+                           f"status di atas berlaku untuk {komoditas_label} saja.")
                 keluar = routes[(routes["asal"] == active) & (routes["komoditas"] == komoditas_label)]
                 masuk = routes[(routes["tujuan"] == active) & (routes["komoditas"] == komoditas_label)]
                 keluar_all = routes[routes["asal"] == active]
