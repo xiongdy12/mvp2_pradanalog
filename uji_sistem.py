@@ -31,6 +31,8 @@ class _Fn:
         if self.n == "columns":
             sp = a[0] if a else 1
             return [_Kolom() for _ in range(sp if isinstance(sp, int) else len(sp))]
+        if self.n == "tabs":
+            return [_Kolom() for _ in (a[0] if a else [])]
         if self.n in ("expander", "container", "spinner", "form", "status"):
             return _Kolom()
         if self.n == "cache_data":
@@ -516,6 +518,57 @@ def uji_cache_ikut_berkas():
         sebelum != sesudah, "kunci tidak berubah — perubahan berkas tidak terbaca")
 
 
+# ------------------------------------------------------------- 36-41
+def uji_rute_kabupaten():
+    import optimasi_kabupaten as ok
+    import tab_kabupaten as tk
+    profil = pd.read_csv("kab_profil.csv")
+    harga = pd.read_csv("kab_harga.csv", parse_dates=["tanggal"])
+
+    rute, catatan = ok.bangun_semua(profil, harga)
+    idx = profil.set_index("kabkota")
+    layak = True
+    for kom in ok.KOM:
+        r = rute[rute.komoditas == kom]
+        dfc = -idx[kom][idx[kom] < 0]
+        sur = idx[kom][idx[kom] > 0]
+        if not len(r):
+            continue
+        terima = r.groupby("tujuan").volume_ton.sum().reindex(dfc.index).fillna(0)
+        kirim = r.groupby("asal").volume_ton.sum()
+        layak &= bool((terima >= ok.DELTA * dfc - 0.5).all())
+        layak &= bool((kirim <= sur.reindex(kirim.index) + 0.5).all())
+        layak &= bool((r.volume_ton <= ok.THETA * sur.reindex(r.asal).values + 0.5).all())
+    cek("36. Rute kabupaten memenuhi δ, batas surplus, dan batas θ", layak,
+        "ada kendala MOLP yang dilanggar")
+
+    cek("37. Rute hanya mengalir dari wilayah surplus ke wilayah defisit",
+        all(idx.at[a, k] > 0 and idx.at[t, k] < 0
+            for a, t, k in rute[["asal", "tujuan", "komoditas"]].itertuples(index=False)),
+        "ada rute dari/ke wilayah yang salah tanda")
+
+    kosong, ket = ok.solve_kabupaten(profil.assign(jagung=0), harga, "jagung")
+    cek("38. Komoditas tanpa surplus–defisit menghasilkan nol rute, bukan galat",
+        len(kosong) == 0 and "tidak ada" in ket, ket)
+
+    sesi = {"peran": "kabupaten", "provinsi": "Jawa Timur", "kabkota": "Kota Surabaya"}
+    rb = tk._batasi_rute(rute, sesi)
+    cek("39. Akun kabupaten hanya melihat rute yang menyentuh wilayahnya",
+        len(rb) > 0 and ((rb.asal == "Kota Surabaya") | (rb.tujuan == "Kota Surabaya")).all(),
+        f"{len(rb)} rute")
+
+    sesi_lain = {"peran": "provinsi", "provinsi": "Jawa Tengah", "kabkota": None}
+    cek("40. Akun provinsi lain tidak melihat rute Jawa Timur",
+        len(tk._batasi_rute(rute, sesi_lain)) == 0, "rute bocor lintas provinsi")
+
+    import json
+    with open("kab_batas.geojson", encoding="utf-8") as f:
+        nama_batas = {ft["properties"]["kabkota"] for ft in json.load(f)["features"]}
+    beda = nama_batas ^ set(profil.kabkota)
+    cek("41. Nama wilayah di kab_batas.geojson sama persis dengan kab_profil.csv",
+        not beda, f"berbeda: {sorted(beda)[:5]}")
+
+
 if __name__ == "__main__":
     print("=" * 68)
     print("UJI MODUL LOGIN DAN DRILL-DOWN KABUPATEN — PradanaLog")
@@ -532,6 +585,7 @@ if __name__ == "__main__":
     uji_metrik_akurasi()
     uji_sebab_pi_nol()
     uji_cache_ikut_berkas()
+    uji_rute_kabupaten()
     print("=" * 68)
     print(f"Lulus {len(LULUS)} · Gagal {len(GAGAL)}")
     if GAGAL:
