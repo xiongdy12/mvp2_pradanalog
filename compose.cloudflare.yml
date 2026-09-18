@@ -1,0 +1,51 @@
+# PradanaLog — terowongan Cloudflare (akses dari luar kampus)
+# =================================================================
+# Dipakai bersama docker-compose.tanpa-sudo.yml, untuk membuka dasbor
+# ke internet TANPA IP publik, tanpa membuka port, dan tanpa sudo.
+# Terowongan ini memulai sambungan keluar dari server, jadi tidak
+# terhalang NAT kampus.
+#
+#   docker compose -f docker-compose.tanpa-sudo.yml \
+#                  -f compose.cloudflare.yml up -d
+#
+# MODE CEPAT (bawaan berkas ini)
+#   Tanpa akun dan tanpa domain. Cloudflare memberi alamat acak
+#   berakhiran .trycloudflare.com. Alamatnya BERGANTI setiap container
+#   dijalankan ulang, jadi cocok untuk demo dan uji coba, bukan untuk
+#   alamat resmi yang dicantumkan di proposal.
+#
+#   Lihat alamatnya dengan:
+#     docker logs pradanalog-tunnel 2>&1 | grep trycloudflare.com
+#
+# MODE DOMAIN TETAP (bila sudah punya domain di Cloudflare)
+#   1. Buat terowongan di dash.cloudflare.com > Zero Trust > Networks
+#      > Tunnels, lalu salin token yang diberikan.
+#   2. Simpan token ke berkas .env:
+#        echo 'TUNNEL_TOKEN=isi-token-di-sini' >> .env
+#   3. Ganti baris command di bawah menjadi:
+#        command: tunnel --no-autoupdate run --token ${TUNNEL_TOKEN}
+#   4. Di dasbor Cloudflare, arahkan hostname ke http://caddy:80
+#
+# CATATAN KEAMANAN
+#   Begitu terowongan hidup, dasbor dapat dibuka siapa pun yang tahu
+#   alamatnya. Pastikan akun demo berkata sandi lemah sudah dihapus:
+#     docker run --rm -it --user $(id -u):$(id -g) -v "$PWD":/app -w /app \
+#         pradanalog:latest python buat_kredensial.py daftar
+
+services:
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: pradanalog-tunnel
+    restart: unless-stopped
+    depends_on:
+      - caddy
+    # Menunjuk ke service caddy lewat jaringan internal Docker, bukan
+    # ke localhost: di dalam container, localhost adalah dirinya sendiri.
+    command: tunnel --no-autoupdate --url http://caddy:80
+    environment:
+      TZ: Asia/Jakarta
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
