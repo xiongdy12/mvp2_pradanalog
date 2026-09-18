@@ -20,6 +20,12 @@ services:
     image: pradanalog:latest
     container_name: pradanalog
     restart: unless-stopped
+    # Berjalan sebagai pemilik berkas di host, bukan sebagai uid 10001
+    # bawaan citra. Tanpa ini, kredensial.json yang berizin 600 tidak
+    # terbaca dari dalam container dan setiap tab melempar
+    # PermissionError. Angkanya dibaca dari berkas .env; buat dengan:
+    #   printf 'HOST_UID=%s\nHOST_GID=%s\n' $(id -u) $(id -g) > .env
+    user: "${HOST_UID:-1000}:${HOST_GID:-1000}"
     # Tidak ada "ports" di sini: dasbor hanya dijangkau Caddy lewat
     # jaringan internal Docker, tidak terbuka langsung ke internet.
     expose:
@@ -28,6 +34,8 @@ services:
       - ./kredensial.json:/app/kredensial.json:ro
     environment:
       TZ: Asia/Jakarta
+      # uid dari host tidak punya direktori rumah di dalam container.
+      HOME: /tmp
     logging:
       driver: json-file
       options:
