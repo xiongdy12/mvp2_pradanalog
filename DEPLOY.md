@@ -60,7 +60,19 @@ cd /opt/pradanalog/app
 Berkas itu dibuat langsung di server:
 
 ```bash
+echo {} > kredensial.json
 python3 buat_kredensial.py tambah
+```
+
+> Berkas harus berisi `{}`, bukan kosong. `touch kredensial.json` menghasilkan
+> berkas berukuran nol, dan itu ditolak sebagai JSON yang tidak sah.
+
+Bila Python 3.12 belum ada di server, jalankan lewat container setelah citra
+dibangun (langkah 4A):
+
+```bash
+docker run --rm -it --user $(id -u):$(id -g) -v "$PWD":/app -w /app \
+    pradanalog:latest python buat_kredensial.py tambah
 ```
 
 Isian yang diminta: nama pengguna, kata sandi, peran (`pusat` / `provinsi` /
@@ -125,6 +137,47 @@ Bila Ubuntu yang terpasang belum menyediakan Python 3.12:
 sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt update
 sudo apt install -y python3.12 python3.12-venv
 ```
+
+---
+
+## 4C. Jalur tanpa hak sudo (Docker + Caddy)
+
+Dipakai bila akun Bapak anggota grup `docker` tetapi tidak punya sudo, sehingga
+Nginx dan certbot tidak bisa dipasang ke sistem. Caddy dijalankan sebagai
+container dan mengurus sertifikat HTTPS sendiri. Ini jalur yang dipakai pada
+pemasangan di `itdelb200b`.
+
+```bash
+cd ~
+git clone https://github.com/xiongdy12/mvp2_pradanalog.git pradanalog
+cd pradanalog
+
+# Angka uid/gid dipakai docker-compose.tanpa-sudo.yml agar container
+# berjalan sebagai pemilik berkas, bukan uid 10001 bawaan citra.
+printf 'HOST_UID=%s\nHOST_GID=%s\n' $(id -u) $(id -g) > .env
+
+docker build -t pradanalog:latest .
+echo {} > kredensial.json
+docker run --rm -it --user $(id -u):$(id -g) -v "$PWD":/app -w /app \
+    pradanalog:latest python buat_kredensial.py tambah
+
+nano deploy/Caddyfile        # isi nama domain, atau aktifkan blok :80
+docker compose -f docker-compose.tanpa-sudo.yml up -d --build
+docker compose -f docker-compose.tanpa-sudo.yml ps
+curl -s localhost/_stcore/health
+```
+
+Periksa lebih dulu bahwa port 80 dan 443 belum dipakai layanan lain:
+
+```bash
+ss -tln | grep -E ':80 |:443 |:8501 '
+```
+
+Perintah itu tidak boleh menampilkan apa pun.
+
+Selama domain belum siap, pakai blok `:80` di dalam `deploy/Caddyfile`, karena
+Caddy tidak dapat mengambil sertifikat untuk domain yang belum mengarah ke
+server ini.
 
 ---
 
@@ -223,6 +276,8 @@ proposal tetap jujur: GPU dipakai untuk komputasi, bukan untuk menyajikan web.
 | Peta kabupaten kosong | `kab_batas.geojson` tidak ikut tersalin. Cek dengan `ls -la kab_batas.geojson` |
 | Semua akun ditolak | `kredensial.json` belum dibuat di server; jalankan `buat_kredensial.py tambah` |
 | Galat `numpy` saat pasang | Python masih 3.11. Wajib 3.12 ke atas |
+| `PermissionError: '/app/kredensial.json'` | Container berjalan sebagai uid lain. Buat `.env` berisi HOST_UID/HOST_GID seperti pada langkah 4C, lalu jalankan ulang |
+| `kredensial.json bukan JSON yang sah` | Berkas kosong. Isi dengan `echo {} > kredensial.json` lalu buat ulang akunnya |
 | Tampilan masih versi lama | Peramban menyimpan versi lama; tekan Ctrl+F5 |
 
 Log lengkap:
