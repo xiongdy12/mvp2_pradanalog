@@ -48,9 +48,17 @@ services:
     restart: unless-stopped
     depends_on:
       - pradanalog
+    # Alamat yang boleh menjangkau Caddy dari luar container, diatur
+    # lewat BIND_ADDR di berkas .env:
+    #   BIND_ADDR=0.0.0.0     seluruh jaringan (dipakai bila TIDAK memakai
+    #                         terowongan, misalnya lewat NAT kampus)
+    #   BIND_ADDR=127.0.0.1   hanya dari dalam server (dipakai bila akses
+    #                         publik lewat Cloudflare Tunnel; container
+    #                         cloudflared tetap menjangkau caddy lewat
+    #                         jaringan internal Docker, bukan lewat port ini)
     ports:
-      - "80:80"
-      - "443:443"
+      - "${BIND_ADDR:-0.0.0.0}:80:80"
+      - "${BIND_ADDR:-0.0.0.0}:443:443"
     volumes:
       - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
       - caddy_data:/data      # sertifikat HTTPS disimpan di sini
