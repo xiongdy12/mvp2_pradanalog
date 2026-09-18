@@ -1,0 +1,55 @@
+# PradanaLog — susunan untuk pengguna TANPA hak sudo
+# =================================================================
+# Dipakai bila Bapak hanya anggota grup docker, tanpa hak sudo:
+# Nginx dan sertifikat HTTPS ikut dijalankan sebagai container,
+# bukan dipasang ke sistem.
+#
+#   docker compose -f docker-compose.tanpa-sudo.yml up -d --build
+#
+# Caddy mengurus sertifikat HTTPS sendiri, tanpa certbot dan tanpa
+# sudo. Syaratnya dua, dan keduanya tetap urusan tim TI:
+#   1. Subdomain sudah diarahkan ke IP server ini
+#   2. Port 80 dan 443 terbuka dari internet
+#
+# Daemon Docker berjalan sebagai root, sehingga container BOLEH
+# memakai port 80/443 walau Bapak sendiri tidak punya sudo.
+
+services:
+  pradanalog:
+    build: .
+    image: pradanalog:latest
+    container_name: pradanalog
+    restart: unless-stopped
+    # Tidak ada "ports" di sini: dasbor hanya dijangkau Caddy lewat
+    # jaringan internal Docker, tidak terbuka langsung ke internet.
+    expose:
+      - "8501"
+    volumes:
+      - ./kredensial.json:/app/kredensial.json:ro
+    environment:
+      TZ: Asia/Jakarta
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  caddy:
+    image: caddy:2-alpine
+    container_name: pradanalog-caddy
+    restart: unless-stopped
+    depends_on:
+      - pradanalog
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data      # sertifikat HTTPS disimpan di sini
+      - caddy_config:/config
+    environment:
+      TZ: Asia/Jakarta
+
+volumes:
+  caddy_data:
+  caddy_config:

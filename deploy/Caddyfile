@@ -1,0 +1,41 @@
+# PradanaLog — konfigurasi Caddy
+# =================================================================
+# Dipakai bersama docker-compose.tanpa-sudo.yml.
+# Caddy meminta dan memperbarui sertifikat HTTPS sendiri, jadi tidak
+# perlu certbot dan tidak perlu sudo.
+#
+# GANTI pradanalog.del.ac.id dengan subdomain dari tim TI.
+
+pradanalog.del.ac.id {
+	# Nama "pradanalog" di bawah merujuk nama service pada compose,
+	# diselesaikan lewat DNS internal Docker.
+	reverse_proxy pradanalog:8501 {
+		# Streamlit memakai WebSocket; Caddy meneruskannya otomatis,
+		# tidak perlu pengaturan Upgrade seperti pada Nginx.
+		flush_interval -1
+	}
+
+	encode gzip
+
+	log {
+		output file /data/akses.log {
+			roll_size 10MiB
+			roll_keep 3
+		}
+	}
+}
+
+# ---------------------------------------------------------------
+# BELUM PUNYA SUBDOMAIN?
+# Nonaktifkan blok di atas (beri tanda # pada tiap barisnya), lalu
+# aktifkan blok di bawah ini dengan menghapus tanda #. Dasbor akan
+# dilayani lewat HTTP biasa di port 80, memakai IP server.
+# Pakai ini hanya untuk uji coba di jaringan kampus, jangan untuk
+# akses publik: kata sandi akan melintas tanpa terenkripsi.
+# ---------------------------------------------------------------
+# :80 {
+# 	reverse_proxy pradanalog:8501 {
+# 		flush_interval -1
+# 	}
+# 	encode gzip
+# }

@@ -1,0 +1,34 @@
+# PradanaLog — layanan dasbor
+# =================================================================
+# Jalankan:   docker compose up -d
+# Lihat log:  docker compose logs -f
+# Perbarui:   git pull && docker compose up -d --build
+#
+# Port 8501 sengaja diikat ke 127.0.0.1 saja: yang menghadap internet
+# adalah Nginx (lihat deploy/nginx-pradanalog.conf), bukan container ini.
+
+services:
+  pradanalog:
+    build: .
+    image: pradanalog:latest
+    container_name: pradanalog
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8501:8501"
+    volumes:
+      # Kredensial hidup di server, bukan di dalam citra maupun di Git.
+      - ./kredensial.json:/app/kredensial.json:ro
+    environment:
+      TZ: Asia/Jakarta
+    # Dasbor ini berjalan di CPU; batas berikut cukup untuk puluhan
+    # pengguna serentak. Naikkan bila TPID mengakses beramai-ramai.
+    deploy:
+      resources:
+        limits:
+          cpus: "2.0"
+          memory: 4G
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

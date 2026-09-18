@@ -1,0 +1,47 @@
+# PradanaLog — unit systemd (jalur TANPA Docker)
+# =================================================================
+# Dipakai bila tim TI tidak mengizinkan Docker di server. Langkah:
+#
+#   sudo useradd --system --create-home --home-dir /opt/pradanalog pradana
+#   sudo -u pradana git clone https://github.com/xiongdy12/mvp2_pradanalog.git /opt/pradanalog/app
+#   sudo -u pradana python3.12 -m venv /opt/pradanalog/venv
+#   sudo -u pradana /opt/pradanalog/venv/bin/pip install -r /opt/pradanalog/app/requirements.txt
+#   sudo cp deploy/pradanalog.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now pradanalog
+#
+# Python WAJIB 3.12 atau lebih baru: numpy==2.5.0 tidak tersedia untuk 3.11.
+# Periksa dengan: /opt/pradanalog/venv/bin/python --version
+
+[Unit]
+Description=PradanaLog - dasbor distribusi dan prediksi harga pangan
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pradana
+Group=pradana
+WorkingDirectory=/opt/pradanalog/app
+Environment=TZ=Asia/Jakarta
+Environment=PYTHONUNBUFFERED=1
+
+ExecStart=/opt/pradanalog/venv/bin/streamlit run pradanalog_map.py \
+    --server.port=8501 \
+    --server.address=127.0.0.1 \
+    --server.headless=true \
+    --server.fileWatcherType=none \
+    --browser.gatherUsageStats=false
+
+Restart=always
+RestartSec=5
+
+# Pengetatan dasar.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/pradanalog
+
+[Install]
+WantedBy=multi-user.target

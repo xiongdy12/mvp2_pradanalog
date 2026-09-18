@@ -1,0 +1,24 @@
+# Berkas yang tidak perlu masuk ke dalam citra Docker.
+.git
+.gitignore
+.devcontainer
+
+# Rahasia: dipasang sebagai volume saat container jalan, bukan dibakar
+# ke dalam citra.
+kredensial.json
+.streamlit/secrets.toml
+*.env
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebook eksplorasi dan berkas kerja tidak dipakai aplikasi.
+*.ipynb
+.ipynb_checkpoints/
+._uji_lama.json
+
+Dockerfile
+docker-compose.yml
+deploy/
